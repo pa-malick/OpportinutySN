@@ -22,10 +22,9 @@ d'emploi, les nettoie, detecte les anomalies de salaire, suit les tendances de
 competences, et diffuse le tout via un dashboard, des emails et des alertes
 Slack/WhatsApp (grace a Make).
 
-Projet realise par **Papa Malick NDIAYE**, etudiant en Master Data Science et
-Genie Logiciel (Universite Alioune Diop de Bambey).
+**Auteur** : Papa Malick NDIAYE, etudiant en Master Data Science et Genie
+Logiciel (Universite Alioune Diop de Bambey), Data Scientist et AI Engineer.
 
-- Portfolio : Papa Malick NDIAYE, Data Scientist et AI Engineer
 - GitHub : [pa-malick](https://github.com/pa-malick)
 - LinkedIn : [papa-malick-ndiaye](https://www.linkedin.com/in/papa-malick-ndiaye-b58b22309)
 
@@ -43,8 +42,22 @@ il tourne seul, sans intervention humaine. Trois maillons entierement automatise
 - **Diffusion automatique** : a chaque execution, un webhook Make relaie les alertes
   vers email / Slack / WhatsApp, et les utilisateurs s'abonnent depuis le site.
 
-Resultat : on deploie une fois, et le systeme collecte, analyse et alerte chaque
-jour, tout seul.
+**La boucle quotidienne, sans personne aux commandes :**
+
+```
+   Chaque matin a 08:00
+           |
+   GitHub Actions (cron)  ->  scraping + ETL + analyse
+           |                          |
+           v                          v
+   Webhook Make               nouveau snapshot commite
+   (email / Slack / WhatsApp)         |
+                                      v
+                          Netlify redeploie le site a jour
+```
+
+> **On deploie une seule fois, et le systeme collecte, analyse, alerte et se met
+> a jour tout seul, chaque jour.** C'est ca, le coeur du projet.
 
 ## Ce que fait le projet
 

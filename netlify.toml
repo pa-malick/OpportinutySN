@@ -1,0 +1,19 @@
+# Deploiement du front Vue (dans frontend/) sur Netlify.
+# Netlify construit le front et sert le dossier dist/. Le snapshot offres.json
+# est mis a jour par le workflow GitHub Actions, donc chaque commit redeploie
+# le site avec les donnees fraiches.
+#
+# Variables d'environnement a definir dans Netlify (Site settings > Environment) :
+#   VITE_MAKE_SUBSCRIBE_URL = ton webhook Make d'abonnement
+#   (VITE_API_URL reste vide : le front statique lit le snapshot)
+
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+# Le front est une single-page app : toutes les routes renvoient index.html.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

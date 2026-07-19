@@ -1,7 +1,41 @@
 # Guide de deploiement
 
-Ce guide couvre trois facons de faire tourner OpportunitySN : en local, avec
-Docker, et en ligne (gratuitement).
+Ce guide couvre le deploiement recommande (front statique + GitHub Actions),
+puis les autres facons de faire tourner OpportunitySN (local, Docker, serveur).
+
+## 0. Deploiement recommande : front Vue + GitHub Actions (100% gratuit, sans serveur)
+
+C'est le mode le plus simple et le plus robuste. Le front est un site statique
+qui lit un instantane des donnees (`frontend/public/offres.json`), et une tache
+planifiee regenere cet instantane chaque jour.
+
+**Etape 1 : le front sur Netlify (ou Vercel)**
+
+1. Pousser le projet sur GitHub.
+2. Sur netlify.com : *Add new site > Import an existing project*, choisir le depot.
+3. La config est deja fournie dans `netlify.toml` (base `frontend`, build
+   `npm run build`, publie `dist`). Netlify la detecte automatiquement.
+4. Dans *Site settings > Environment variables*, ajouter :
+   - `VITE_MAKE_SUBSCRIBE_URL` = l'URL du webhook Make d'abonnement.
+   - (Laisser `VITE_API_URL` vide : le front lit le snapshot.)
+5. Deployer. Le site est en ligne.
+
+Sur Vercel, c'est pareil : *Root Directory* = `frontend`, framework Vite detecte,
+memes variables d'environnement.
+
+**Etape 2 : la pipeline sur GitHub Actions (deja configuree)**
+
+Le workflow `.github/workflows/scrape.yml` tourne chaque matin (cron 08:00) :
+il relance le scraping, regenere `offres.json` et le commit. Le commit declenche
+un redeploiement automatique du front sur Netlify. Le tableau de bord se met donc
+a jour tout seul, sans serveur allume.
+
+Ajouter dans *GitHub > Settings > Secrets and variables > Actions* :
+`MAKE_WEBHOOK_URL` et `WEBHOOK_ENABLED=true` (pour que les alertes partent).
+
+---
+
+Les sections suivantes couvrent les autres modes (local, Docker, serveur).
 
 ## 1. En local
 

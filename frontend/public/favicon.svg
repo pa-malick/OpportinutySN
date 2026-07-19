@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="10" fill="url(#osn-grad)" />
+  <rect x="9.5" y="23" width="4.6" height="7.5" rx="1.6" fill="#ffffff" fill-opacity="0.82" />
+  <rect x="17.7" y="18" width="4.6" height="12.5" rx="1.6" fill="#ffffff" fill-opacity="0.9" />
+  <rect x="25.9" y="13" width="4.6" height="17.5" rx="1.6" fill="#ffffff" />
+  <path d="M10.5 20 L19.8 15 L28.2 10" stroke="#5eead4" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="28.4" cy="9.8" r="2.5" fill="#5eead4" />
+  <defs>
+    <linearGradient id="osn-grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f766e" />
+      <stop offset="1" stop-color="#0b4f49" />
+    </linearGradient>
+  </defs>
+</svg>

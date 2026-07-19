@@ -1,0 +1,33 @@
+# docker-compose : deux services qui partagent le meme code et la meme base.
+#   - dashboard   : l'interface web Streamlit (port 8501).
+#   - planificateur: fait tourner la pipeline automatiquement chaque jour.
+#
+# Lancer depuis la racine du projet :
+#   docker compose -f docker/docker-compose.yml up --build
+
+services:
+
+  dashboard:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: streamlit run src/dashboard/app.py --server.address=0.0.0.0 --server.port=8501
+    ports:
+      - "8501:8501"
+    volumes:
+      # On partage le dossier data pour garder les donnees entre les redemarrages.
+      - ../data:/app/data
+    env_file:
+      - ../.env
+    restart: unless-stopped
+
+  planificateur:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: python orchestration/schedule_jobs.py
+    volumes:
+      - ../data:/app/data
+    env_file:
+      - ../.env
+    restart: unless-stopped

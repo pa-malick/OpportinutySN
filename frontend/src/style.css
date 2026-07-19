@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Theme sobre : fond gris tres clair, texte slate fonce. */
+body {
+  @apply bg-slate-100 text-slate-800 antialiased;
+}
+
+/* Les nombres s'alignent bien dans les tableaux et KPI. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Barre de defilement discrete. */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

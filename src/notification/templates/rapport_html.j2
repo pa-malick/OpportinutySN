@@ -1,0 +1,78 @@
+{# Template du rapport email (Jinja2 + HTML inline pour compatibilite mail). #}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="margin:0; padding:0; background:#f4f6f8; font-family:Arial, Helvetica, sans-serif; color:#222;">
+  <div style="max-width:640px; margin:0 auto; padding:24px;">
+
+    <div style="background:#0f766e; color:#ffffff; padding:20px 24px; border-radius:8px 8px 0 0;">
+      <h1 style="margin:0; font-size:20px;">Veille marche emploi Tech</h1>
+      <p style="margin:6px 0 0; font-size:13px; opacity:0.9;">
+        Rapport genere le {{ date_rapport }}
+      </p>
+    </div>
+
+    <div style="background:#ffffff; padding:24px; border-radius:0 0 8px 8px;">
+
+      <h2 style="font-size:16px; color:#0f766e;">En bref</h2>
+      <table style="width:100%; border-collapse:collapse; font-size:14px;">
+        <tr>
+          <td style="padding:8px 0;">Offres suivies</td>
+          <td style="padding:8px 0; text-align:right; font-weight:bold;">{{ resume.total_offres }}</td>
+        </tr>
+        <tr>
+          <td style="padding:8px 0;">Entreprises</td>
+          <td style="padding:8px 0; text-align:right; font-weight:bold;">{{ resume.nombre_entreprises }}</td>
+        </tr>
+        <tr>
+          <td style="padding:8px 0;">Salaire median</td>
+          <td style="padding:8px 0; text-align:right; font-weight:bold;">
+            {% if resume.salaire_median %}{{ "{:,.0f}".format(resume.salaire_median).replace(",", " ") }} FCFA{% else %}n/d{% endif %}
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:8px 0;">Competence la plus demandee</td>
+          <td style="padding:8px 0; text-align:right; font-weight:bold;">{{ resume.competence_top or "n/d" }}</td>
+        </tr>
+      </table>
+
+      <h2 style="font-size:16px; color:#0f766e; margin-top:24px;">Alertes ({{ alertes|length }})</h2>
+      {% if alertes %}
+        {% for alerte in alertes %}
+          {% set couleur = "#b91c1c" if alerte.niveau == "haute" else ("#b45309" if alerte.niveau == "moyenne" else "#166534") %}
+          <div style="border-left:4px solid {{ couleur }}; background:#f9fafb; padding:10px 14px; margin-bottom:8px; font-size:13px;">
+            <span style="color:{{ couleur }}; font-weight:bold; text-transform:uppercase; font-size:11px;">{{ alerte.type }}</span><br>
+            {{ alerte.message }}
+          </div>
+        {% endfor %}
+      {% else %}
+        <p style="font-size:13px; color:#666;">Aucune alerte sur cette periode.</p>
+      {% endif %}
+
+      <h2 style="font-size:16px; color:#0f766e; margin-top:24px;">Salaires moyens par metier</h2>
+      <table style="width:100%; border-collapse:collapse; font-size:13px;">
+        <tr style="background:#f1f5f9;">
+          <th style="text-align:left; padding:8px;">Metier</th>
+          <th style="text-align:right; padding:8px;">Offres</th>
+          <th style="text-align:right; padding:8px;">Salaire moyen</th>
+        </tr>
+        {% for ligne in salaires %}
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:8px;">{{ ligne.categorie }}</td>
+          <td style="padding:8px; text-align:right;">{{ ligne.nombre_offres }}</td>
+          <td style="padding:8px; text-align:right;">{{ "{:,.0f}".format(ligne.salaire_moyen).replace(",", " ") }} FCFA</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+      <p style="margin-top:28px; font-size:12px; color:#94a3b8; text-align:center;">
+        OpportunitySN, projet de veille automatisee par {{ auteur }}.<br>
+        Genere automatiquement, ne pas repondre a cet email.
+      </p>
+    </div>
+  </div>
+</body>
+</html>

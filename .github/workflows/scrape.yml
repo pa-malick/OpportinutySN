@@ -1,0 +1,61 @@
+# Scraping planifie : chaque matin, on collecte les offres, on regenere le
+# snapshot du front et on le commit. C'est ce qui rend le projet "vivant" une
+# fois deploye, sans serveur allume 24/7 (GitHub s'occupe du cron gratuitement).
+#
+# On peut aussi le declencher a la main depuis l'onglet Actions (workflow_dispatch).
+#
+# Pour que les alertes Make partent pour de vrai, ajoute dans les secrets du
+# depot (Settings > Secrets and variables > Actions) :
+#   - MAKE_WEBHOOK_URL : l'URL de ton webhook Make
+#   - WEBHOOK_ENABLED  : true
+# Sans ces secrets, la pipeline tourne quand meme mais en mode simulation.
+
+name: Scraping quotidien
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # tous les jours a 08:00 UTC (= 08:00 a Dakar)
+  workflow_dispatch: {}    # bouton pour lancer manuellement
+
+# On autorise le job a committer le snapshot mis a jour.
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dependances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Lancer la pipeline (sources reelles)
+        env:
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
+          WEBHOOK_ENABLED: ${{ secrets.WEBHOOK_ENABLED }}
+        run: python main.py --reel
+
+      - name: Regenerer le snapshot du front
+        run: python -m src.api.export_snapshot
+
+      - name: Committer le snapshot s'il a change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/offres.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement dans le snapshot, rien a committer."
+          else
+            git commit -m "chore: mise a jour automatique des offres ($(date -u +%Y-%m-%d))"
+            git push
+          fi

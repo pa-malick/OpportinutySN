@@ -1,0 +1,51 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Environnements virtuels ---
+venv/
+.venv/
+env/
+
+# --- Node / front-end ---
+node_modules/
+.vite/
+*.local
+
+# --- Secrets et config locale ---
+.env
+
+# --- Donnees (on ne pousse pas les gros fichiers ni la base) ---
+data/raw/*
+data/processed/*
+data/db/*
+# On garde quand meme les dossiers vides sur Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/db/.gitkeep
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Rapport genere (on garde le script docs/generate_report.py, pas le .docx) ---
+docs/Rapport_OpportunitySN.docx
+*.docx
+
+# --- Tests / couverture ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS ---
+.DS_Store
+Thumbs.db

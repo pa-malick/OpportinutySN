@@ -4,11 +4,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
 </p>
+
+<p align="center"><strong>Pipeline d'automatisation de bout en bout : collecte → traitement → diffusion, sans intervention humaine.</strong></p>
 
 # OpportunitySN
 
@@ -27,6 +30,21 @@ Genie Logiciel (Universite Alioune Diop de Bambey).
 - LinkedIn : [papa-malick-ndiaye](https://www.linkedin.com/in/papa-malick-ndiaye-b58b22309)
 
 ---
+
+## Automatisation (le coeur du projet)
+
+Avant tout, OpportunitySN est un projet d'**automatisation** : une fois en ligne,
+il tourne seul, sans intervention humaine. Trois maillons entierement automatises :
+
+- **Collecte planifiee** : un cron GitHub Actions (et un DAG Airflow) relance le
+  scraping chaque matin a 08:00, met a jour les donnees et redeploie le tableau de bord.
+- **Traitement automatique** : nettoyage, validation Pydantic, detection d'anomalies
+  de salaire et de tendances, sans aucune action manuelle.
+- **Diffusion automatique** : a chaque execution, un webhook Make relaie les alertes
+  vers email / Slack / WhatsApp, et les utilisateurs s'abonnent depuis le site.
+
+Resultat : on deploie une fois, et le systeme collecte, analyse et alerte chaque
+jour, tout seul.
 
 ## Ce que fait le projet
 

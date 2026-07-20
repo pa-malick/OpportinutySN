@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T18:03:06",
+  "generated_at": "2026-07-20T11:00:01",
   "offres": [
     {
       "titre": "Analyste Financier",
@@ -14,7 +14,7 @@
       "salaire_max": 628263.0,
       "salaire_ref": 587289.5,
       "anomalie": false,
-      "date_publication": "2026-06-25",
+      "date_publication": "2026-06-27",
       "source": "demo",
       "url": "https://demo.local/offre/7912"
     },
@@ -32,7 +32,7 @@
       "salaire_max": 1415951.0,
       "salaire_ref": 1323606.5,
       "anomalie": false,
-      "date_publication": "2026-07-18",
+      "date_publication": "2026-07-20",
       "source": "demo",
       "url": "https://demo.local/offre/8359"
     },
@@ -52,7 +52,7 @@
       "salaire_max": 710026.0,
       "salaire_ref": 663720.0,
       "anomalie": false,
-      "date_publication": "2026-06-26",
+      "date_publication": "2026-06-28",
       "source": "demo",
       "url": "https://demo.local/offre/2519"
     },
@@ -72,7 +72,7 @@
       "salaire_max": 1778285.0,
       "salaire_ref": 1662310.0,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "demo",
       "url": "https://demo.local/offre/5803"
     },
@@ -90,7 +90,7 @@
       "salaire_max": 543872.0,
       "salaire_ref": 508402.5,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "demo",
       "url": "https://demo.local/offre/2654"
     },
@@ -109,7 +109,7 @@
       "salaire_max": 1233407.0,
       "salaire_ref": 1152967.5,
       "anomalie": false,
-      "date_publication": "2026-07-12",
+      "date_publication": "2026-07-14",
       "source": "demo",
       "url": "https://demo.local/offre/5010"
     },
@@ -127,7 +127,7 @@
       "salaire_max": 1576751.0,
       "salaire_ref": 1473919.5,
       "anomalie": false,
-      "date_publication": "2026-06-26",
+      "date_publication": "2026-06-28",
       "source": "demo",
       "url": "https://demo.local/offre/1525"
     },
@@ -146,7 +146,7 @@
       "salaire_max": 1258940.0,
       "salaire_ref": 1176835.5,
       "anomalie": false,
-      "date_publication": "2026-06-20",
+      "date_publication": "2026-06-22",
       "source": "demo",
       "url": "https://demo.local/offre/3340"
     },
@@ -166,7 +166,7 @@
       "salaire_max": 1475795.0,
       "salaire_ref": 1379547.5,
       "anomalie": false,
-      "date_publication": "2026-06-30",
+      "date_publication": "2026-07-02",
       "source": "demo",
       "url": "https://demo.local/offre/9348"
     },
@@ -184,7 +184,7 @@
       "salaire_max": 989304.0,
       "salaire_ref": 924784.5,
       "anomalie": false,
-      "date_publication": "2026-06-28",
+      "date_publication": "2026-06-30",
       "source": "demo",
       "url": "https://demo.local/offre/7304"
     },
@@ -201,7 +201,7 @@
       "salaire_max": 1472113.0,
       "salaire_ref": 1376106.0,
       "anomalie": false,
-      "date_publication": "2026-06-21",
+      "date_publication": "2026-06-23",
       "source": "demo",
       "url": "https://demo.local/offre/5371"
     },
@@ -220,7 +220,7 @@
       "salaire_max": 1007127.0,
       "salaire_ref": 941445.0,
       "anomalie": false,
-      "date_publication": "2026-07-18",
+      "date_publication": "2026-07-20",
       "source": "demo",
       "url": "https://demo.local/offre/9317"
     },
@@ -237,7 +237,7 @@
       "salaire_max": 1167915.0,
       "salaire_ref": 1091747.0,
       "anomalie": false,
-      "date_publication": "2026-06-18",
+      "date_publication": "2026-06-20",
       "source": "demo",
       "url": "https://demo.local/offre/9005"
     },
@@ -256,7 +256,7 @@
       "salaire_max": 1692873.0,
       "salaire_ref": 1582468.5,
       "anomalie": false,
-      "date_publication": "2026-06-23",
+      "date_publication": "2026-06-25",
       "source": "demo",
       "url": "https://demo.local/offre/2403"
     },
@@ -274,7 +274,7 @@
       "salaire_max": 1102369.0,
       "salaire_ref": 1030475.5,
       "anomalie": false,
-      "date_publication": "2026-06-24",
+      "date_publication": "2026-06-26",
       "source": "demo",
       "url": "https://demo.local/offre/3705"
     },
@@ -292,7 +292,7 @@
       "salaire_max": 1225315.0,
       "salaire_ref": 1145403.5,
       "anomalie": false,
-      "date_publication": "2026-06-24",
+      "date_publication": "2026-06-26",
       "source": "demo",
       "url": "https://demo.local/offre/8177"
     },
@@ -310,7 +310,7 @@
       "salaire_max": 925184.0,
       "salaire_ref": 864846.0,
       "anomalie": false,
-      "date_publication": "2026-07-18",
+      "date_publication": "2026-07-20",
       "source": "demo",
       "url": "https://demo.local/offre/2163"
     },
@@ -329,7 +329,7 @@
       "salaire_max": 497878.0,
       "salaire_ref": 465408.0,
       "anomalie": false,
-      "date_publication": "2026-06-21",
+      "date_publication": "2026-06-23",
       "source": "demo",
       "url": "https://demo.local/offre/8953"
     },
@@ -349,7 +349,7 @@
       "salaire_max": 1375340.0,
       "salaire_ref": 1285644.0,
       "anomalie": false,
-      "date_publication": "2026-06-23",
+      "date_publication": "2026-06-25",
       "source": "demo",
       "url": "https://demo.local/offre/8651"
     },
@@ -366,7 +366,7 @@
       "salaire_max": 869151.0,
       "salaire_ref": 812467.5,
       "anomalie": false,
-      "date_publication": "2026-06-23",
+      "date_publication": "2026-06-25",
       "source": "demo",
       "url": "https://demo.local/offre/4116"
     },
@@ -383,7 +383,7 @@
       "salaire_max": 1075365.0,
       "salaire_ref": 1005232.5,
       "anomalie": false,
-      "date_publication": "2026-07-11",
+      "date_publication": "2026-07-13",
       "source": "demo",
       "url": "https://demo.local/offre/2604"
     },
@@ -401,7 +401,7 @@
       "salaire_max": 1598695.0,
       "salaire_ref": 1494432.5,
       "anomalie": false,
-      "date_publication": "2026-06-21",
+      "date_publication": "2026-06-23",
       "source": "demo",
       "url": "https://demo.local/offre/8886"
     },
@@ -420,7 +420,7 @@
       "salaire_max": 807599.0,
       "salaire_ref": 754929.5,
       "anomalie": false,
-      "date_publication": "2026-07-06",
+      "date_publication": "2026-07-08",
       "source": "demo",
       "url": "https://demo.local/offre/8973"
     },
@@ -437,7 +437,7 @@
       "salaire_max": 1503411.0,
       "salaire_ref": 1405362.5,
       "anomalie": false,
-      "date_publication": "2026-06-25",
+      "date_publication": "2026-06-27",
       "source": "demo",
       "url": "https://demo.local/offre/1821"
     },
@@ -455,7 +455,7 @@
       "salaire_max": 1129870.0,
       "salaire_ref": 1056183.0,
       "anomalie": false,
-      "date_publication": "2026-07-16",
+      "date_publication": "2026-07-18",
       "source": "demo",
       "url": "https://demo.local/offre/7615"
     },
@@ -474,7 +474,7 @@
       "salaire_max": 1195527.0,
       "salaire_ref": 1117558.0,
       "anomalie": false,
-      "date_publication": "2026-06-27",
+      "date_publication": "2026-06-29",
       "source": "demo",
       "url": "https://demo.local/offre/5351"
     },
@@ -491,7 +491,7 @@
       "salaire_max": 1925267.0,
       "salaire_ref": 1799706.5,
       "anomalie": false,
-      "date_publication": "2026-06-24",
+      "date_publication": "2026-06-26",
       "source": "demo",
       "url": "https://demo.local/offre/2638"
     },
@@ -508,7 +508,7 @@
       "salaire_max": 1542598.0,
       "salaire_ref": 1441994.0,
       "anomalie": false,
-      "date_publication": "2026-06-23",
+      "date_publication": "2026-06-25",
       "source": "demo",
       "url": "https://demo.local/offre/2697"
     },
@@ -527,7 +527,7 @@
       "salaire_max": 992447.0,
       "salaire_ref": 927722.5,
       "anomalie": false,
-      "date_publication": "2026-07-10",
+      "date_publication": "2026-07-12",
       "source": "demo",
       "url": "https://demo.local/offre/9280"
     },
@@ -546,7 +546,7 @@
       "salaire_max": 1315773.0,
       "salaire_ref": 1229962.0,
       "anomalie": false,
-      "date_publication": "2026-06-22",
+      "date_publication": "2026-06-24",
       "source": "demo",
       "url": "https://demo.local/offre/5291"
     },
@@ -563,7 +563,7 @@
       "salaire_max": 1481375.0,
       "salaire_ref": 1384764.0,
       "anomalie": false,
-      "date_publication": "2026-07-18",
+      "date_publication": "2026-07-20",
       "source": "demo",
       "url": "https://demo.local/offre/9938"
     },
@@ -582,7 +582,7 @@
       "salaire_max": 843681.0,
       "salaire_ref": 788658.5,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "demo",
       "url": "https://demo.local/offre/5088"
     },
@@ -600,7 +600,7 @@
       "salaire_max": 950034.0,
       "salaire_ref": 888075.5,
       "anomalie": false,
-      "date_publication": "2026-06-29",
+      "date_publication": "2026-07-01",
       "source": "demo",
       "url": "https://demo.local/offre/7755"
     },
@@ -618,7 +618,7 @@
       "salaire_max": 1186468.0,
       "salaire_ref": 1109090.0,
       "anomalie": false,
-      "date_publication": "2026-06-23",
+      "date_publication": "2026-06-25",
       "source": "demo",
       "url": "https://demo.local/offre/7267"
     },
@@ -637,7 +637,7 @@
       "salaire_max": 1245061.0,
       "salaire_ref": 1163861.5,
       "anomalie": false,
-      "date_publication": "2026-07-07",
+      "date_publication": "2026-07-09",
       "source": "demo",
       "url": "https://demo.local/offre/6378"
     },
@@ -656,7 +656,7 @@
       "salaire_max": 1189272.0,
       "salaire_ref": 1111711.0,
       "anomalie": false,
-      "date_publication": "2026-07-06",
+      "date_publication": "2026-07-08",
       "source": "demo",
       "url": "https://demo.local/offre/5349"
     },
@@ -676,7 +676,7 @@
       "salaire_max": 1638323.0,
       "salaire_ref": 1531476.0,
       "anomalie": false,
-      "date_publication": "2026-07-08",
+      "date_publication": "2026-07-10",
       "source": "demo",
       "url": "https://demo.local/offre/4114"
     },
@@ -694,7 +694,7 @@
       "salaire_max": 4748597.0,
       "salaire_ref": 4438906.0,
       "anomalie": true,
-      "date_publication": "2026-06-27",
+      "date_publication": "2026-06-29",
       "source": "demo",
       "url": "https://demo.local/offre/6409"
     },
@@ -713,7 +713,7 @@
       "salaire_max": 879646.0,
       "salaire_ref": 822278.0,
       "anomalie": false,
-      "date_publication": "2026-07-02",
+      "date_publication": "2026-07-04",
       "source": "demo",
       "url": "https://demo.local/offre/3085"
     },
@@ -732,7 +732,7 @@
       "salaire_max": 1014852.0,
       "salaire_ref": 948666.0,
       "anomalie": false,
-      "date_publication": "2026-06-29",
+      "date_publication": "2026-07-01",
       "source": "demo",
       "url": "https://demo.local/offre/5700"
     },
@@ -750,7 +750,7 @@
       "salaire_max": 1338183.0,
       "salaire_ref": 1250910.5,
       "anomalie": false,
-      "date_publication": "2026-06-27",
+      "date_publication": "2026-06-29",
       "source": "demo",
       "url": "https://demo.local/offre/2389"
     },
@@ -769,7 +769,7 @@
       "salaire_max": 1480768.0,
       "salaire_ref": 1384196.5,
       "anomalie": false,
-      "date_publication": "2026-07-11",
+      "date_publication": "2026-07-13",
       "source": "demo",
       "url": "https://demo.local/offre/1757"
     },
@@ -787,7 +787,7 @@
       "salaire_max": 1564409.0,
       "salaire_ref": 1462382.5,
       "anomalie": false,
-      "date_publication": "2026-06-30",
+      "date_publication": "2026-07-02",
       "source": "demo",
       "url": "https://demo.local/offre/4997"
     },
@@ -804,7 +804,7 @@
       "salaire_max": 1733568.0,
       "salaire_ref": 1620509.5,
       "anomalie": false,
-      "date_publication": "2026-06-20",
+      "date_publication": "2026-06-22",
       "source": "demo",
       "url": "https://demo.local/offre/3881"
     },
@@ -822,7 +822,7 @@
       "salaire_max": 606340.0,
       "salaire_ref": 566796.5,
       "anomalie": false,
-      "date_publication": "2026-07-04",
+      "date_publication": "2026-07-06",
       "source": "demo",
       "url": "https://demo.local/offre/6198"
     },
@@ -842,7 +842,7 @@
       "salaire_max": 1898541.0,
       "salaire_ref": 1774723.5,
       "anomalie": false,
-      "date_publication": "2026-07-01",
+      "date_publication": "2026-07-03",
       "source": "demo",
       "url": "https://demo.local/offre/5543"
     },
@@ -860,7 +860,7 @@
       "salaire_max": 874261.0,
       "salaire_ref": 817244.0,
       "anomalie": false,
-      "date_publication": "2026-06-26",
+      "date_publication": "2026-06-28",
       "source": "demo",
       "url": "https://demo.local/offre/9890"
     },
@@ -877,7 +877,7 @@
       "salaire_max": 1274655.0,
       "salaire_ref": 1191525.5,
       "anomalie": false,
-      "date_publication": "2026-06-20",
+      "date_publication": "2026-06-22",
       "source": "demo",
       "url": "https://demo.local/offre/8814"
     },
@@ -895,7 +895,7 @@
       "salaire_max": 1697773.0,
       "salaire_ref": 1587049.0,
       "anomalie": false,
-      "date_publication": "2026-07-05",
+      "date_publication": "2026-07-07",
       "source": "demo",
       "url": "https://demo.local/offre/8140"
     },
@@ -913,7 +913,7 @@
       "salaire_max": 1767448.0,
       "salaire_ref": 1652180.0,
       "anomalie": false,
-      "date_publication": "2026-07-06",
+      "date_publication": "2026-07-08",
       "source": "demo",
       "url": "https://demo.local/offre/1441"
     },
@@ -933,7 +933,7 @@
       "salaire_max": 1321847.0,
       "salaire_ref": 1235640.0,
       "anomalie": false,
-      "date_publication": "2026-07-14",
+      "date_publication": "2026-07-16",
       "source": "demo",
       "url": "https://demo.local/offre/4467"
     },
@@ -953,7 +953,7 @@
       "salaire_max": 1952020.0,
       "salaire_ref": 1824714.5,
       "anomalie": false,
-      "date_publication": "2026-06-22",
+      "date_publication": "2026-06-24",
       "source": "demo",
       "url": "https://demo.local/offre/1853"
     },
@@ -970,7 +970,7 @@
       "salaire_max": 1360926.0,
       "salaire_ref": 1272170.0,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "demo",
       "url": "https://demo.local/offre/1333"
     },
@@ -988,7 +988,7 @@
       "salaire_max": 655437.0,
       "salaire_ref": 612691.5,
       "anomalie": false,
-      "date_publication": "2026-06-30",
+      "date_publication": "2026-07-02",
       "source": "demo",
       "url": "https://demo.local/offre/3749"
     },
@@ -1007,7 +1007,7 @@
       "salaire_max": 714978.0,
       "salaire_ref": 668349.0,
       "anomalie": false,
-      "date_publication": "2026-06-18",
+      "date_publication": "2026-06-20",
       "source": "demo",
       "url": "https://demo.local/offre/7149"
     },
@@ -1025,7 +1025,7 @@
       "salaire_max": 1806554.0,
       "salaire_ref": 1688735.5,
       "anomalie": false,
-      "date_publication": "2026-06-28",
+      "date_publication": "2026-06-30",
       "source": "demo",
       "url": "https://demo.local/offre/2983"
     },
@@ -1044,7 +1044,7 @@
       "salaire_max": 964356.0,
       "salaire_ref": 901463.5,
       "anomalie": false,
-      "date_publication": "2026-07-16",
+      "date_publication": "2026-07-18",
       "source": "demo",
       "url": "https://demo.local/offre/8102"
     },
@@ -1063,7 +1063,7 @@
       "salaire_max": 1100137.0,
       "salaire_ref": 1028389.0,
       "anomalie": false,
-      "date_publication": "2026-07-13",
+      "date_publication": "2026-07-15",
       "source": "demo",
       "url": "https://demo.local/offre/5397"
     },
@@ -1083,7 +1083,7 @@
       "salaire_max": 1118605.0,
       "salaire_ref": 1045652.5,
       "anomalie": false,
-      "date_publication": "2026-07-11",
+      "date_publication": "2026-07-13",
       "source": "demo",
       "url": "https://demo.local/offre/6325"
     },
@@ -1102,7 +1102,7 @@
       "salaire_max": 1215401.0,
       "salaire_ref": 1136136.0,
       "anomalie": false,
-      "date_publication": "2026-07-10",
+      "date_publication": "2026-07-12",
       "source": "demo",
       "url": "https://demo.local/offre/2402"
     },
@@ -1122,7 +1122,7 @@
       "salaire_max": 1094796.0,
       "salaire_ref": 1023396.5,
       "anomalie": false,
-      "date_publication": "2026-06-26",
+      "date_publication": "2026-06-28",
       "source": "demo",
       "url": "https://demo.local/offre/4630"
     },
@@ -1141,7 +1141,7 @@
       "salaire_max": 859884.0,
       "salaire_ref": 803805.0,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "demo",
       "url": "https://demo.local/offre/5658"
     },
@@ -1161,7 +1161,7 @@
       "salaire_max": 1104284.0,
       "salaire_ref": 1032265.5,
       "anomalie": false,
-      "date_publication": "2026-07-15",
+      "date_publication": "2026-07-17",
       "source": "demo",
       "url": "https://demo.local/offre/8253"
     },
@@ -1178,7 +1178,7 @@
       "salaire_max": 647629.0,
       "salaire_ref": 605392.5,
       "anomalie": false,
-      "date_publication": "2026-06-29",
+      "date_publication": "2026-07-01",
       "source": "demo",
       "url": "https://demo.local/offre/2330"
     },
@@ -1198,7 +1198,7 @@
       "salaire_max": 808225.0,
       "salaire_ref": 755515.0,
       "anomalie": false,
-      "date_publication": "2026-07-05",
+      "date_publication": "2026-07-07",
       "source": "demo",
       "url": "https://demo.local/offre/5720"
     },
@@ -1217,7 +1217,7 @@
       "salaire_max": 741476.0,
       "salaire_ref": 693119.0,
       "anomalie": false,
-      "date_publication": "2026-06-19",
+      "date_publication": "2026-06-21",
       "source": "demo",
       "url": "https://demo.local/offre/9922"
     },
@@ -1237,7 +1237,7 @@
       "salaire_max": 1941737.0,
       "salaire_ref": 1815102.0,
       "anomalie": false,
-      "date_publication": "2026-07-10",
+      "date_publication": "2026-07-12",
       "source": "demo",
       "url": "https://demo.local/offre/6280"
     },
@@ -1254,7 +1254,7 @@
       "salaire_max": 1330610.0,
       "salaire_ref": 1243831.5,
       "anomalie": false,
-      "date_publication": "2026-06-22",
+      "date_publication": "2026-06-24",
       "source": "demo",
       "url": "https://demo.local/offre/1659"
     },
@@ -1274,7 +1274,7 @@
       "salaire_max": 1023850.0,
       "salaire_ref": 957077.5,
       "anomalie": false,
-      "date_publication": "2026-06-30",
+      "date_publication": "2026-07-02",
       "source": "demo",
       "url": "https://demo.local/offre/6460"
     },
@@ -1293,7 +1293,7 @@
       "salaire_max": 1411474.0,
       "salaire_ref": 1319421.5,
       "anomalie": false,
-      "date_publication": "2026-07-03",
+      "date_publication": "2026-07-05",
       "source": "demo",
       "url": "https://demo.local/offre/2442"
     },
@@ -1310,7 +1310,7 @@
       "salaire_max": 1062379.0,
       "salaire_ref": 993093.5,
       "anomalie": false,
-      "date_publication": "2026-06-21",
+      "date_publication": "2026-06-23",
       "source": "demo",
       "url": "https://demo.local/offre/7770"
     },
@@ -1330,9 +1330,417 @@
       "salaire_max": 1291113.0,
       "salaire_ref": 1206910.0,
       "anomalie": false,
-      "date_publication": "2026-06-28",
+      "date_publication": "2026-06-30",
       "source": "demo",
       "url": "https://demo.local/offre/5719"
+    },
+    {
+      "titre": "Data Entry Assistant",
+      "entreprise": "JobsInMass.com",
+      "lieu": "Beverly,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073"
+    },
+    {
+      "titre": "Entry Level Data Entry Clerk Admin",
+      "entreprise": "JobsInMass.com",
+      "lieu": "Beverly,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071"
+    },
+    {
+      "titre": "Virtual Data Entry Clerk",
+      "entreprise": "JobsInMass.com",
+      "lieu": "Beverly,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-clerk-jobsinmass-com-1135074"
+    },
+    {
+      "titre": "Entry Level Data Entry Clerk",
+      "entreprise": "JobsInMass.com",
+      "lieu": "Beverly,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072"
+    },
+    {
+      "titre": "Data Entry Typist",
+      "entreprise": "JobsInMass.com",
+      "lieu": "Beverly,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-jobsinmass-com-1135070"
+    },
+    {
+      "titre": "Pitch us a role",
+      "entreprise": "Alloy",
+      "lieu": "Greater Sydney Area,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-19",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062"
+    },
+    {
+      "titre": "Graphic Designer",
+      "entreprise": "DOSED",
+      "lieu": "Time,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046"
+    },
+    {
+      "titre": "Job Summary",
+      "entreprise": "LOTHIAN BUSES LIMITED",
+      "lieu": "Livingston,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-lothian-buses-limited-1135017"
+    },
+    {
+      "titre": "Presentation Designer",
+      "entreprise": "INFUSE",
+      "lieu": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
+      "categorie": "Data Science",
+      "competences": [
+        "Excel",
+        "Machine Learning"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025"
+    },
+    {
+      "titre": "Expression Of Interest",
+      "entreprise": "White Peak Digital",
+      "lieu": "High Peak,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019"
+    },
+    {
+      "titre": "React Native Engineer",
+      "entreprise": "HelpBnk",
+      "lieu": "Remote",
+      "categorie": "Autre",
+      "competences": [
+        "TypeScript"
+      ],
+      "salaire_min": 60000.0,
+      "salaire_max": 80000.0,
+      "salaire_ref": 70000.0,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014"
+    },
+    {
+      "titre": "Patient Scheduler",
+      "entreprise": "ARStrat",
+      "lieu": "Greater Houston,",
+      "categorie": "Autre",
+      "competences": [
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015"
+    },
+    {
+      "titre": "UGC Creator",
+      "entreprise": "ren",
+      "lieu": "San Francisco Bay Area",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016"
+    },
+    {
+      "titre": "Fire Dispatcher",
+      "entreprise": "City of Campbell River",
+      "lieu": "Campbell River,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057"
+    },
+    {
+      "titre": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
+      "entreprise": "Orchestrate Consulting Group",
+      "lieu": "Los Angeles,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-access-scheduler-centralized-scheduling-ft-8-30a-5p-orchestrate-consulting-group-1134996"
+    },
+    {
+      "titre": "Animated Graphic Visual Artist",
+      "entreprise": "Gritter Francona",
+      "lieu": "Washington, Washington, District of Columbia, United States",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995"
+    },
+    {
+      "titre": "Creative Director",
+      "entreprise": "Bellweather Agency",
+      "lieu": "New York, New York, United States",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-director-bellweather-agency-1134988"
+    },
+    {
+      "titre": "Social Media Manager",
+      "entreprise": "Degy Entertainment",
+      "lieu": "Delray Beach, Delray Beach, Florida, United States",
+      "categorie": "Data Science",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-degy-entertainment-1134986"
+    },
+    {
+      "titre": "Designer de Interiores",
+      "entreprise": "Inovcorp",
+      "lieu": "Rio de Janeiro e RegiÃ£o",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-de-interiores-inovcorp-1135055"
+    },
+    {
+      "titre": "Parks Services",
+      "entreprise": "FinditinCW",
+      "lieu": "Coventry,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021"
+    },
+    {
+      "titre": "Desk Operator",
+      "entreprise": "Hyatt Regency",
+      "lieu": "Dehradun,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-desk-operator-hyatt-regency-1134970"
+    },
+    {
+      "titre": "Senior Product Manager Platform",
+      "entreprise": "Delinea",
+      "lieu": "Redwood City",
+      "categorie": "Autre",
+      "competences": [
+        "AWS",
+        "Azure",
+        "API"
+      ],
+      "salaire_min": 130000.0,
+      "salaire_max": 162000.0,
+      "salaire_ref": 146000.0,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961"
+    },
+    {
+      "titre": "Digital Media Specialist",
+      "entreprise": "Rose, Klein &amp; Marias",
+      "lieu": "Sacramento, Sacramento, California, United States",
+      "categorie": "Data Science",
+      "competences": [
+        "JavaScript",
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989"
+    },
+    {
+      "titre": "National Account Manager Foodservice",
+      "entreprise": "Georgia Pacific",
+      "lieu": "Greater Houston,",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-national-account-manager-foodservice-georgia-pacific-1134987"
+    },
+    {
+      "titre": "Content Marketing Manager",
+      "entreprise": "Planned Parenthood of Greater New York",
+      "lieu": "New York, New York, New York, United States",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-planned-parenthood-of-greater-new-york-1134953"
+    },
+    {
+      "titre": "I am a Professional",
+      "entreprise": "Boustead Property Services",
+      "lieu": "All Cannings,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-17",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018"
+    },
+    {
+      "titre": "Community & Social Manager",
+      "entreprise": "Pacifica Beauty",
+      "lieu": "New York, New York, New York, United States",
+      "categorie": "Data Science",
+      "competences": [
+        "Spark"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-16",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-community-amp-social-manager-pacifica-beauty-1134951"
     },
     {
       "titre": "Creative Strategist",
@@ -1395,6 +1803,20 @@
       "date_publication": "2026-07-16",
       "source": "remoteok",
       "url": "https://remoteOK.com/remote-jobs/remote-director-business-development-army-noble-1134952"
+    },
+    {
+      "titre": "Content & Digital Marketing Specialist",
+      "entreprise": "Outsource Access Careers",
+      "lieu": "Remote",
+      "categorie": "Data Science",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-16",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932"
     },
     {
       "titre": "Sales Development Representative",
@@ -1520,6 +1942,22 @@
       "url": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957"
     },
     {
+      "titre": "Customer Success Team Lead",
+      "entreprise": "Guesty",
+      "lieu": "London, London, England, United Kingdom",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-16",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-team-lead-guesty-1135026"
+    },
+    {
       "titre": "Date Posted",
       "entreprise": "OptN Inc",
       "lieu": "Frisco,",
@@ -1536,568 +1974,227 @@
       "url": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954"
     },
     {
-      "titre": "Zentix Software",
-      "entreprise": "SuperbCompanies",
-      "lieu": "Jaipur,",
+      "titre": "Werkstudent Business-Analyse & Prozessautomatisierung (m/w/d)",
+      "entreprise": "Modern Drive Technology GmbH",
+      "lieu": "Neumarkt in der Oberpfalz",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/werkstudent-business-analyse-prozessautomatisierung-neumarkt-in-der-oberpfalz-469376"
+    },
+    {
+      "titre": "Backend Developer Kotlin & Java (m/w/d) | bis 85.000 €",
+      "entreprise": "buesken strategy & consulting",
+      "lieu": "Düsseldorf",
       "categorie": "Developpement Logiciel",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-zentix-software-superbcompanies-1134971"
-    },
-    {
-      "titre": "Create Your Own Role",
-      "entreprise": "NewsletterJobs.io",
-      "lieu": "Pittsburgh,",
-      "categorie": "Autre",
       "competences": [
-        "AWS"
+        "Java"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999"
     },
     {
-      "titre": "Publisher",
-      "entreprise": "NewsletterJobs.io",
-      "lieu": "Morristown,",
+      "titre": "Trainee Artist Manager / Influencer Manager (m/w/d)",
+      "entreprise": "Lionflence",
+      "lieu": "Berlin",
       "categorie": "Autre",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-209953"
     },
     {
-      "titre": "COURIER",
-      "entreprise": "Doctors Hospital",
-      "lieu": "Nassau,",
+      "titre": "Werkstudent:in Digital Growth & Online-Marketing (m/w/d)",
+      "entreprise": "Cleo & You GmbH",
+      "lieu": "Hamburg",
       "categorie": "Autre",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cleo-you-gmbh/werkstudentin-digital-growth-online-marketing-hamburg-394568"
     },
     {
-      "titre": "Associate Customer Engagement",
-      "entreprise": "The Coca-Cola Company",
-      "lieu": "Atlanta,",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955"
-    },
-    {
-      "titre": "Medical Support Technician Scheduler Outpatient",
-      "entreprise": "Yukon-Kuskokwim Health Corporation",
-      "lieu": "Alaska,",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-support-technician-scheduler-outpatient-yukon-kuskokwim-health-corporation-1134879"
-    },
-    {
-      "titre": "Purchase Order Administrator",
-      "entreprise": "Hirewell",
-      "lieu": "United States,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-purchase-order-administrator-hirewell-1134876"
-    },
-    {
-      "titre": "Creative Strategist",
-      "entreprise": "DREAMLABS",
-      "lieu": "Remote",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-dreamlabs-1134875"
-    },
-    {
-      "titre": "National Account Manager",
-      "entreprise": "Future Beauty Brands (formerly PPI Beauty)",
-      "lieu": "New York City Metropolitan Area",
-      "categorie": "Autre",
+      "titre": "Software Quality Assurance Engineer (all genders)",
+      "entreprise": "TECOSIM GmbH",
+      "lieu": "Dresden",
+      "categorie": "Developpement Logiciel",
       "competences": [
-        "Excel"
+        "Python"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-national-account-manager-future-beauty-brands-formerly-ppi-beauty-1134881"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecosim-gmbh/software-quality-assurance-engineer-all-genders-dresden-388444"
     },
     {
-      "titre": "Project Coordinator",
-      "entreprise": "VeraSafe",
-      "lieu": "Kingston, Kingston, Jamaica",
-      "categorie": "Autre",
+      "titre": "AWS DevOps Engineer",
+      "entreprise": "MICO Software UG (haftungsbeschränkt)",
+      "lieu": "Berlin",
+      "categorie": "Data Engineering",
       "competences": [
-        "Python",
-        "Hadoop"
+        "Docker",
+        "AWS",
+        "PostgreSQL",
+        "ETL"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-coordinator-verasafe-1134911"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/mico-software-ug-haftungsbeschrankt/aws-devops-engineer-berlin-214113"
     },
     {
-      "titre": "Associate Director of Athlete Engagement",
-      "entreprise": "Axe Sports Group",
-      "lieu": "Philadelphia, Philadelphia, Pennsylvania, United States",
-      "categorie": "Data Science",
+      "titre": "Software Quality Assurance Engineer (m/w/d)",
+      "entreprise": "cigus GmbH",
+      "lieu": "Dresden",
+      "categorie": "Developpement Logiciel",
       "competences": [
-        "Go"
+        "Python"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-director-of-athlete-engagement-axe-sports-group-1134901"
+      "date_publication": "2026-07-20",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/software-quality-assurance-engineer-dresden-309527"
     },
     {
-      "titre": "Project Manager",
-      "entreprise": "Empire Life",
-      "lieu": "Remote",
-      "categorie": "Autre",
+      "titre": "Junior Software Developer - (m/w/d)",
+      "entreprise": "HanseSecure GmbH",
+      "lieu": "München",
+      "categorie": "Developpement Logiciel",
       "competences": [
         "Python",
         "JavaScript",
         "TypeScript",
-        "Django"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-empire-life-1134867"
-    },
-    {
-      "titre": "Field Marketing Manager",
-      "entreprise": "CELSIUS",
-      "lieu": "Orlando, Orlando, Florida, United States",
-      "categorie": "Autre",
-      "competences": [
-        "Go"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-celsius-1134874"
-    },
-    {
-      "titre": "Trabaja como canguro Ayuda con los deberes",
-      "entreprise": "TUS Media",
-      "lieu": "MÃ¡laga, MÃ¡laga, AndalucÃ­a, EspaÃ±a",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "JavaScript",
-        "Excel",
-        "Git"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927"
-    },
-    {
-      "titre": "Chief Operating Officer",
-      "entreprise": "Verity Search Limited",
-      "lieu": "London Area, London Area, United Kingdom",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-verity-search-limited-1134888"
-    },
-    {
-      "titre": "Department Supervisor SAANICH",
-      "entreprise": "The Home Depot Canada",
-      "lieu": "Saanich,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-department-supervisor-saanich-the-home-depot-canada-1134992"
-    },
-    {
-      "titre": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto",
-      "entreprise": "Nibo",
-      "lieu": "Brasil,",
-      "categorie": "Autre",
-      "competences": [
-        "JavaScript",
-        "Git"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841"
-    },
-    {
-      "titre": "Video Podcast Editor",
-      "entreprise": "Betches Media",
-      "lieu": "New York, New York, New York, United States",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-podcast-editor-betches-media-1134873"
-    },
-    {
-      "titre": "Chief Growth Officer",
-      "entreprise": "Original Peptide",
-      "lieu": "California, California, United States",
-      "categorie": "Autre",
-      "competences": [
-        "Go"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-growth-officer-original-peptide-1134878"
-    },
-    {
-      "titre": "Chain Account Manager",
-      "entreprise": "CELSIUS",
-      "lieu": "Ohio, Ohio, United States",
-      "categorie": "Business Intelligence",
-      "competences": [
-        "Go",
-        "Power BI",
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-chain-account-manager-celsius-1134880"
-    },
-    {
-      "titre": "Business Development",
-      "entreprise": "Timo",
-      "lieu": "SÃ£o Paulo e RegiÃ£o",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "Hadoop"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-timo-1134909"
-    },
-    {
-      "titre": "Assistant Controller",
-      "entreprise": "Treewalk",
-      "lieu": "Vancouver, Vancouver, British Columbia, Canada",
-      "categorie": "Autre",
-      "competences": [
-        "Go"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-controller-treewalk-1134904"
-    },
-    {
-      "titre": "Estimator",
-      "entreprise": "Airswift",
-      "lieu": "Port of Spain,",
-      "categorie": "Autre",
-      "competences": [
-        "Excel",
+        "Docker",
+        "Git",
         "API"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-airswift-1134821"
+      "date_publication": "2026-07-19",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-452436"
     },
     {
-      "titre": "Designer",
-      "entreprise": "Intelligent Change",
-      "lieu": "Toronto, Toronto, Ontario, Canada",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905"
-    },
-    {
-      "titre": "Junior Contact Center Agent",
-      "entreprise": "Volkswagen Group",
-      "lieu": "Palmela,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886"
-    },
-    {
-      "titre": "Proposal & Business Development Specialist",
-      "entreprise": "Pubgenius Inc.",
-      "lieu": "Warszawa, Warszawa, Woj. Mazowieckie, Polska",
-      "categorie": "Data Science",
+      "titre": "Senior Data Engineer",
+      "entreprise": "GLS/NXT",
+      "lieu": "Berlin",
+      "categorie": "Data Engineering",
       "competences": [
         "Python",
-        "JavaScript",
-        "Power BI",
-        "Excel"
+        "SQL",
+        "Go",
+        "Airflow",
+        "AWS",
+        "GCP"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-proposal-amp-business-development-specialist-pubgenius-inc-1134924"
+      "date_publication": "2026-07-19",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/glsnxt/senior-data-engineer-berlin-391080"
     },
     {
-      "titre": "Business Analyst",
-      "entreprise": "EasyPark",
-      "lieu": "ChiÅinÄu, ChiÅinÄu, ChiÈinÄu, Moldova",
-      "categorie": "Autre",
+      "titre": "Backend Developer (m/w/d) PHP PostgreSQL",
+      "entreprise": "Pakajo GmbH",
+      "lieu": "Hamburg",
+      "categorie": "Developpement Logiciel",
       "competences": [
-        "Excel"
+        "SQL",
+        "JavaScript",
+        "Git",
+        "PostgreSQL",
+        "MySQL",
+        "API"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-easypark-1134922"
+      "date_publication": "2026-07-18",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/backend-developer-php-postgresql-hamburg-472726"
     },
     {
-      "titre": "TÃ©cnico De Estudos E Propostas",
-      "entreprise": "Wikibuild S.A",
-      "lieu": "Lisboa,",
-      "categorie": "Autre",
+      "titre": "Senior Backend Developer (m/w/d) PHP PostgreSQL",
+      "entreprise": "Pakajo GmbH",
+      "lieu": "Hamburg",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "JavaScript",
+        "Git",
+        "PostgreSQL"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-18",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/senior-backend-developer-php-postgresql-hamburg-193730"
+    },
+    {
+      "titre": "Senior Full-stack Python Engineer (m/f/d) - Network Planning",
+      "entreprise": "Flix",
+      "lieu": "Berlin, Berlin, Germany",
+      "categorie": "DevOps / Cloud",
       "competences": [
         "Python",
-        "JavaScript",
         "TypeScript",
         "Docker",
-        "Excel",
-        "Git"
+        "Kubernetes",
+        "Kafka",
+        "AWS",
+        "Azure",
+        "PostgreSQL",
+        "Flask"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929"
+      "date_publication": "2026-07-18",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-python-engineer-network-planning-berlin-414270"
     },
     {
-      "titre": "Social Media Manager",
-      "entreprise": "aion",
-      "lieu": "New York, New York, New York, United States",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-aion-1134877"
-    },
-    {
-      "titre": "QA Engineer",
-      "entreprise": "InEight",
-      "lieu": "Colombo,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-ineight-1134965"
-    },
-    {
-      "titre": "Customer Success Manager Brazil",
-      "entreprise": "Group-IB",
-      "lieu": "SÃ£o Paulo, SÃ£o Paulo, SÃ£o Paulo, Brasil",
-      "categorie": "Autre",
+      "titre": "Frontend Developer Intern (Unpaid)",
+      "entreprise": "HOPn UG",
+      "lieu": "Puchheim",
+      "categorie": "Developpement Logiciel",
       "competences": [
-        "Python",
-        "Go",
-        "Hadoop"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-brazil-group-ib-1134910"
-    },
-    {
-      "titre": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
-      "entreprise": "Toloka Annotators",
-      "lieu": "CÃ³rdoba, CÃ³rdoba, CÃ³rdoba, Argentina",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "Hadoop"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-toloka-annotators-1134908"
-    },
-    {
-      "titre": "Record Your Daily Routine & Get Paid AI Training",
-      "entreprise": "Toloka Annotators",
-      "lieu": "Montreal, Montreal, Quebec, Canada",
-      "categorie": "Autre",
-      "competences": [
-        "Go"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-record-your-daily-routine-amp-get-paid-ai-training-toloka-annotators-1134939"
-    },
-    {
-      "titre": "Sales Executive",
-      "entreprise": "Unilever",
-      "lieu": "Navi Mumbai, Navi Mumbai, Maharashtra, India",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-executive-unilever-1134845"
-    },
-    {
-      "titre": "Customer Success Manager Enterprise",
-      "entreprise": "PointClickCare",
-      "lieu": "Mississauga, Mississauga, Ontario, Canada",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "JavaScript",
         "TypeScript",
-        "Django"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-enterprise-pointclickcare-1134869"
-    },
-    {
-      "titre": "Cyber-Security Engineer (m/w/d)",
-      "entreprise": "VOLENTUM Deutschland GmbH",
-      "lieu": "Nördlingen",
-      "categorie": "Autre",
-      "competences": [
-        "Linux"
+        "Git"
       ],
       "salaire_min": null,
       "salaire_max": null,
@@ -2105,7 +2202,7 @@
       "anomalie": false,
       "date_publication": "2026-07-17",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/cyber-security-engineer-nordlingen-54128"
+      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552"
     },
     {
       "titre": "Data Engineer",
@@ -2187,434 +2284,9 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-17",
+      "date_publication": "2026-07-19",
       "source": "arbeitnow",
       "url": "https://www.arbeitnow.com/jobs/companies/ticketbro/junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468"
-    },
-    {
-      "titre": "IT Support Specialist 2nd Level (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-support-specialist-2nd-level-munich-457666"
-    },
-    {
-      "titre": "Haustechniker Gebäudemanagement (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-gebaudemanagement-munich-108488"
-    },
-    {
-      "titre": "IT Projektmanager Softwareentwicklung (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Developpement Logiciel",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-projektmanager-softwareentwicklung-munich-172309"
-    },
-    {
-      "titre": "(Senior) Full Stack Java Entwickler (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Java",
-        "JavaScript",
-        "TypeScript"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/senior-full-stack-java-entwickler-munich-45701"
-    },
-    {
-      "titre": "Softwareentwickler C++ / Qt",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Linux",
-        "PostgreSQL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-c-qt-munich-70638"
-    },
-    {
-      "titre": "Haustechniker Gebäudetechnik (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-gebaudetechnik-munich-197299"
-    },
-    {
-      "titre": "Projektleiter Technisches Gebäudemanagement (m/w/d) Dresden",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Dresden",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektleiter-technisches-gebaudemanagement-dresden-348404"
-    },
-    {
-      "titre": "Berechnungsingenieur Strukturanalyse (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [
-        "Linux"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/berechnungsingenieur-strukturanalyse-munich-151441"
-    },
-    {
-      "titre": "IT Projektmanager Software Implementierung (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Developpement Logiciel",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-projektmanager-software-implementierung-munich-314900"
-    },
-    {
-      "titre": "Senior SAP BTP Developer (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Java",
-        "JavaScript",
-        "Docker",
-        "Kubernetes"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/senior-sap-btp-developer-munich-141741"
-    },
-    {
-      "titre": "Bauingenieur (m/w/d) - Projektmanagement",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Minden",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/bauingenieur-projektmanagement-minden-366079"
-    },
-    {
-      "titre": "Technischer Objektverwalter (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Stuttgart",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-objektverwalter-stuttgart-170385"
-    },
-    {
-      "titre": "Technischer Property Manager (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/technischer-property-manager-munich-62236"
-    },
-    {
-      "titre": "Objektverwalter Facility Management (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/objektverwalter-facility-management-munich-387184"
-    },
-    {
-      "titre": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-54136"
-    },
-    {
-      "titre": "Bachelorarbeit (m/w/d) – KI-gestützte Automatisierung des Datenimports im Data Warehouse",
-      "entreprise": "accantec group",
-      "lieu": "Heidelberg",
-      "categorie": "Data Engineering",
-      "competences": [
-        "SQL",
-        "ETL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/accantec-group/bachelorarbeit-ki-gestutzte-automatisierung-des-datenimports-im-data-warehouse-heidelberg-199638"
-    },
-    {
-      "titre": "Absolvent BWL / VWL / Wirtschaftsingenieur als Einstieg in die Beratung - Vollzeit (m/w/d)",
-      "entreprise": "IfDQ Audit GmbH",
-      "lieu": "Kempten (Allgäu)",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ifdq-audit-gmbh/absolvent-bwl-vwl-wirtschaftsingenieur-als-einstieg-in-die-beratung-vollzeit-kempten-allgau-329255"
-    },
-    {
-      "titre": "Solution Engineer (m/w/d) - ERP SaaS",
-      "entreprise": "Recruiting Sonia",
-      "lieu": "Stuttgart",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "SQL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/recruiting-sonia/solution-engineer-erp-saas-stuttgart-59102"
-    },
-    {
-      "titre": "Senior Full-Stack Engineer (m/f/x) | hybrid",
-      "entreprise": "fleetster",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [
-        "JavaScript",
-        "TypeScript",
-        "AWS",
-        "MongoDB"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/fleetster/senior-full-stack-engineer-hybrid-munich-5678"
-    },
-    {
-      "titre": "Computer Vision Engineer (m/w/d)",
-      "entreprise": "Agentur Philipp GmbH",
-      "lieu": "Dingolfing",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "Docker",
-        "TensorFlow",
-        "PyTorch",
-        "AWS",
-        "Azure",
-        "Linux",
-        "Deep Learning",
-        "FastAPI"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/computer-vision-engineer-dingolfing-418034"
-    },
-    {
-      "titre": "Senior Sales Engineer (m/w/d) in München & Berlin",
-      "entreprise": "Convercus",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/convercus/senior-sales-engineer-in-munchen-berlin-munich-93074"
-    },
-    {
-      "titre": "Automatisierungs- & KI-Entwickler (m/w/d)",
-      "entreprise": "Agentur Philipp GmbH",
-      "lieu": "Dingolfing",
-      "categorie": "Data Engineering",
-      "competences": [
-        "Python",
-        "SQL",
-        "JavaScript",
-        "Docker",
-        "Linux",
-        "ETL",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/automatisierungs-ki-entwickler-dingolfing-229637"
-    },
-    {
-      "titre": "Embedded Rust Engineer (m/f/d)",
-      "entreprise": "Anori Tech",
-      "lieu": "Hamburg",
-      "categorie": "Autre",
-      "competences": [
-        "Go"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/anori-tech/embedded-rust-engineer-hamburg-461582"
-    },
-    {
-      "titre": "Elektroniker für Automatisierungstechnik (m/w/d)",
-      "entreprise": "HRW Gebäudetechnik",
-      "lieu": "Hamburg",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hrw-gebaudetechnik/elektroniker-fur-automatisierungstechnik-hamburg-274233"
-    },
-    {
-      "titre": "Prozessingenieur - Dosier- und Wasseraufbereitungstechnik (m/w/d)",
-      "entreprise": "Dr. Herbert Executive Consultants",
-      "lieu": "Würzburg",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/prozessingenieur-dosier-und-wasseraufbereitungstechnik-wurzburg-418805"
-    },
-    {
-      "titre": "Chef de Projet MEP – Ingénieur(e) Électromécanique",
-      "entreprise": "LUSEO Sénégal",
-      "lieu": "Ngor Almadies, Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-06-26",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/luseo-senegal-ngor-almadies-cdi-chef-de-projet-mep-ingenieure-electromecanique/"
-    },
-    {
-      "titre": "Site Project Engineer",
-      "entreprise": "Topwork",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-02",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/site-project-engineer/"
     },
     {
       "titre": "Data Engineer Manager",
@@ -2636,6 +2308,20 @@
       "date_publication": "2026-07-03",
       "source": "emploidakar",
       "url": "https://www.emploidakar.com/offre-demploi/data-engineer-manager/"
+    },
+    {
+      "titre": "Responsable Marketing Digital, Communication & Support Administratif",
+      "entreprise": "AHTAG",
+      "lieu": "Hann Maristes, Dakar, Sénégal",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-06",
+      "source": "emploidakar",
+      "url": "https://www.emploidakar.com/offre-demploi/ahtag-dakar-hann-mariste-cdd-responsable-marketing-digital-communication-support-administratif/"
     },
     {
       "titre": "Ingénieur Principal – Bureau d’Études & Coordination Technique",
@@ -2710,6 +2396,20 @@
       "url": "https://www.emploidakar.com/offre-demploi/alten-senegal-dakar-senegal-cdi-developpeur-fullstack-senior-java-angular/"
     },
     {
+      "titre": "Gestionnaire Maketing Digital",
+      "entreprise": "ETS",
+      "lieu": "Dakar, Sénégal",
+      "categorie": "Finance / Comptabilite",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-07",
+      "source": "emploidakar",
+      "url": "https://www.emploidakar.com/offre-demploi/ets-dakar-cdd-gestionnaire-maketing-digital/"
+    },
+    {
       "titre": "Consultant, AI Engineer",
       "entreprise": "PATH",
       "lieu": "Dakar, Sénégal",
@@ -2744,637 +2444,6 @@
       "url": "https://www.emploidakar.com/offre-demploi/entreprise-dkr-dakar-cdd-stage-technicien-ou-ingenieur-en-energie-solaire/"
     },
     {
-      "titre": "Ingénieur en énergie éolienne",
-      "entreprise": "UCAD",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/ingenieur-en-energie-eolienne/"
-    },
-    {
-      "titre": "consultant expert Aménagements hydro agricoles",
-      "entreprise": "Société Internationale d'Ingénierie Conseil",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/societe-internationale-dingenierie-conseil-dakar-senegal-cdd-cdi-avis-de-recrutement-international-dun-ingenieur-en-amenegaments-hydro-agricoles-2/"
-    },
-    {
-      "titre": "Consultant expert Hydraulique Eau et Assainissement",
-      "entreprise": "Société Internationale d'Ingénierie Conseil",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/societe-internationale-dingenierie-conseil-dakar-senegal-cdd-cdi-avis-de-recrutement-international-dun-ingenieur-en-hydrailique-eau-assaissement/"
-    },
-    {
-      "titre": "Community & Social Manager",
-      "entreprise": "Pacifica Beauty",
-      "lieu": "New York, New York, New York, United States",
-      "categorie": "Data Science",
-      "competences": [
-        "Spark"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-community-amp-social-manager-pacifica-beauty-1134951"
-    },
-    {
-      "titre": "Content & Digital Marketing Specialist",
-      "entreprise": "Outsource Access Careers",
-      "lieu": "Remote",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932"
-    },
-    {
-      "titre": "Open Position â Dauphine",
-      "entreprise": "Uptown Theatre for Creative Arts",
-      "lieu": "Wideopen,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-position-dauphine-uptown-theatre-for-creative-arts-1134894"
-    },
-    {
-      "titre": "Operations Administrator",
-      "entreprise": "Work Force Nexus",
-      "lieu": "Remote",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-administrator-work-force-nexus-1134885"
-    },
-    {
-      "titre": "Australian English Multimedia Voice Artist Perth",
-      "entreprise": "OpsArmy Careers",
-      "lieu": "Perth, Perth, Western Australia, Australia",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-australian-english-multimedia-voice-artist-perth-opsarmy-careers-1134936"
-    },
-    {
-      "titre": "Product Director EdTech Digital Learning",
-      "entreprise": "peopleworth",
-      "lieu": "Manchester, Manchester, England, United Kingdom",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-director-edtech-digital-learning-peopleworth-1134884"
-    },
-    {
-      "titre": "TEMPLATER",
-      "entreprise": "BC Stone, Inc",
-      "lieu": "Columbia-Shuswap E,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-templater-bc-stone-inc-1134891"
-    },
-    {
-      "titre": "Virtual Executive Assistant",
-      "entreprise": "Recruit Lytixs Hires",
-      "lieu": "Alberta, Alberta, Canada",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytixs-hires-1134865"
-    },
-    {
-      "titre": "Medical Records and Health Information Manager",
-      "entreprise": "Backpack Healthcare",
-      "lieu": "Remote",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": 75000.0,
-      "salaire_max": 80000.0,
-      "salaire_ref": 77500.0,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-records-and-health-information-manager-backpack-healthcare-1134824"
-    },
-    {
-      "titre": "Online Academic Tutor & Flexible Â£20 Â£40 hr UK",
-      "entreprise": "FindTutors",
-      "lieu": "London, London, England, United Kingdom",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-academic-tutor-amp-flexible-20-40-hr-uk-findtutors-1134980"
-    },
-    {
-      "titre": "Photo Editor",
-      "entreprise": "Headout",
-      "lieu": "India,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-photo-editor-headout-1134817"
-    },
-    {
-      "titre": "AI Testing Assistant",
-      "entreprise": "Mosaic Conseil",
-      "lieu": "Stockholm, Stockholm, Stockholms lÃ¤n, Sverige",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-14",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-testing-assistant-mosaic-conseil-1134979"
-    },
-    {
-      "titre": "Projektleiter (m/w/d) Simulationssysteme",
-      "entreprise": "MY Humancapital GmbH",
-      "lieu": "Munich",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektleiter-simulationssysteme-munich-138321"
-    },
-    {
-      "titre": "Apporteur d’affaires digital",
-      "entreprise": "AveliaTech",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-02",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/aveliatech-dakar-prestation-de-services-apporteur-daffaires-digital-h-f/"
-    },
-    {
-      "titre": "Responsable Marketing Digital, Communication & Support Administratif",
-      "entreprise": "AHTAG",
-      "lieu": "Hann Maristes, Dakar, Sénégal",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-06",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/ahtag-dakar-hann-mariste-cdd-responsable-marketing-digital-communication-support-administratif/"
-    },
-    {
-      "titre": "Attachés Commerciaux Réseau",
-      "entreprise": "Elton Oil Company",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-07",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/attaches-commerciaux-reseau/"
-    },
-    {
-      "titre": "Gestionnaire Maketing Digital",
-      "entreprise": "ETS",
-      "lieu": "Dakar, Sénégal",
-      "categorie": "Finance / Comptabilite",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-07",
-      "source": "emploidakar",
-      "url": "https://www.emploidakar.com/offre-demploi/ets-dakar-cdd-gestionnaire-maketing-digital/"
-    },
-    {
-      "titre": "Administrateur de base de données - Dakar",
-      "entreprise": "BCEAO",
-      "lieu": "Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/administrateur-de-base-de-donnees-6793932"
-    },
-    {
-      "titre": "Administrateur Réseaux et Systèmes Confirmé - Dakar",
-      "entreprise": "COSEC",
-      "lieu": "Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-15",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/administrateur-reseaux-et-systemes-confirme-6792399"
-    },
-    {
-      "titre": "GESTIONNAIRE BACK OFFICE & SUPPORT PLATEFORMES DIGITALES - Mamelles",
-      "entreprise": "AMANA MOBILITY AFRICA",
-      "lieu": "Dakar",
-      "categorie": "Finance / Comptabilite",
-      "competences": [],
-      "salaire_min": 100000.0,
-      "salaire_max": 200000.0,
-      "salaire_ref": 150000.0,
-      "anomalie": false,
-      "date_publication": "2026-07-11",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/gestionnaire-back-office-support-plateformes-digitales-6787805"
-    },
-    {
-      "titre": "Assistant(e) en communication – webmaster - Dakar",
-      "entreprise": "UNCHK",
-      "lieu": "Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-06-30",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/assistante-en-communication-webmaster-6776837"
-    },
-    {
-      "titre": "Gestionnaire de magasin en marketing digital et infographie - Almadies 2",
-      "entreprise": "MB Multiservices",
-      "lieu": "Dakar",
-      "categorie": "Finance / Comptabilite",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-06-09",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/gestionnaire-de-magasin-en-marketing-digital-et-infographie-6753659"
-    },
-    {
-      "titre": "Intégrateur Informatique et Réseau en Data - Dakar",
-      "entreprise": "GBG",
-      "lieu": "Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-06-09",
-      "source": "expatdakar",
-      "url": "https://www.expat-dakar.com/annonce/integrateur-informatique-et-reseau-en-data-6753063"
-    },
-    {
-      "titre": "Animated Graphic Visual Artist",
-      "entreprise": "Gritter Francona",
-      "lieu": "Washington, Washington, District of Columbia, United States",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995"
-    },
-    {
-      "titre": "Creative Director",
-      "entreprise": "Bellweather Agency",
-      "lieu": "New York, New York, United States",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-director-bellweather-agency-1134988"
-    },
-    {
-      "titre": "Social Media Manager",
-      "entreprise": "Degy Entertainment",
-      "lieu": "Delray Beach, Delray Beach, Florida, United States",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-degy-entertainment-1134986"
-    },
-    {
-      "titre": "Parks Services",
-      "entreprise": "FinditinCW",
-      "lieu": "Coventry,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021"
-    },
-    {
-      "titre": "Desk Operator",
-      "entreprise": "Hyatt Regency",
-      "lieu": "Dehradun,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-desk-operator-hyatt-regency-1134970"
-    },
-    {
-      "titre": "Senior Product Manager Platform",
-      "entreprise": "Delinea",
-      "lieu": "Redwood City",
-      "categorie": "Autre",
-      "competences": [
-        "AWS",
-        "Azure",
-        "API"
-      ],
-      "salaire_min": 130000.0,
-      "salaire_max": 162000.0,
-      "salaire_ref": 146000.0,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961"
-    },
-    {
-      "titre": "Digital Media Specialist",
-      "entreprise": "Rose, Klein &amp; Marias",
-      "lieu": "Sacramento, Sacramento, California, United States",
-      "categorie": "Data Science",
-      "competences": [
-        "JavaScript",
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989"
-    },
-    {
-      "titre": "National Account Manager Foodservice",
-      "entreprise": "Georgia Pacific",
-      "lieu": "Greater Houston,",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-national-account-manager-foodservice-georgia-pacific-1134987"
-    },
-    {
-      "titre": "Content Marketing Manager",
-      "entreprise": "Planned Parenthood of Greater New York",
-      "lieu": "New York, New York, New York, United States",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-planned-parenthood-of-greater-new-york-1134953"
-    },
-    {
-      "titre": "I am a Professional",
-      "entreprise": "Boustead Property Services",
-      "lieu": "All Cannings,",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018"
-    },
-    {
-      "titre": "Customer Success Team Lead",
-      "entreprise": "Guesty",
-      "lieu": "London, London, England, United Kingdom",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-16",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-team-lead-guesty-1135026"
-    },
-    {
-      "titre": "Backend Developer (m/w/d) PHP PostgreSQL",
-      "entreprise": "Pakajo GmbH",
-      "lieu": "Hamburg",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "SQL",
-        "JavaScript",
-        "Git",
-        "PostgreSQL",
-        "MySQL",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-18",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/backend-developer-php-postgresql-hamburg-472726"
-    },
-    {
-      "titre": "Senior Backend Developer (m/w/d) PHP PostgreSQL",
-      "entreprise": "Pakajo GmbH",
-      "lieu": "Hamburg",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "JavaScript",
-        "Git",
-        "PostgreSQL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-18",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/senior-backend-developer-php-postgresql-hamburg-193730"
-    },
-    {
-      "titre": "Trainee Artist Manager / Influencer Manager (m/w/d)",
-      "entreprise": "Lionflence",
-      "lieu": "Mülheim",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-18",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-95673"
-    },
-    {
-      "titre": "Senior Full-stack Python Engineer (m/f/d) - Network Planning",
-      "entreprise": "Flix",
-      "lieu": "Berlin, Berlin, Germany",
-      "categorie": "DevOps / Cloud",
-      "competences": [
-        "Python",
-        "TypeScript",
-        "Docker",
-        "Kubernetes",
-        "Kafka",
-        "AWS",
-        "Azure",
-        "PostgreSQL",
-        "Flask"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-18",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-python-engineer-network-planning-berlin-414270"
-    },
-    {
-      "titre": "Frontend Developer Intern (Unpaid)",
-      "entreprise": "HOPn UG",
-      "lieu": "Puchheim",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "TypeScript",
-        "Git"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-17",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552"
-    },
-    {
       "titre": "Chargé(e) de Développement Commercial & Digital – Stage évolutif (H/F)",
       "entreprise": "Jolof Studio",
       "lieu": "Dakar, Sénégal",
@@ -3403,6 +2472,22 @@
       "url": "https://www.emploidakar.com/offre-demploi/administrateur-reseaux-et-systemes-confirme/"
     },
     {
+      "titre": "Conseiller en Transformation Digitale PME",
+      "entreprise": "Platinium Sénégal",
+      "lieu": "Dakar, Mbacké",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-15",
+      "source": "emploidakar",
+      "url": "https://www.emploidakar.com/offre-demploi/platinium-senegal-dakar-mbacke-prestation-de-services-conseiller-en-transformation-digitale-pme/"
+    },
+    {
       "titre": "Dev Full Stack Expérimenté – Java / Angular",
       "entreprise": "Non precise",
       "lieu": "Dakar",
@@ -3419,18 +2504,32 @@
       "url": "https://senjob.com/sn/jobseekers/dev-full-stack-expérimenté-–-java---angular_e_160538.html"
     },
     {
-      "titre": "Ingénieur Spécialisé en Génie Civil – Responsable...",
+      "titre": "IT & Data Science Intern",
       "entreprise": "Non precise",
       "lieu": "Dakar",
-      "categorie": "Data Science",
+      "categorie": "Autre",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-07-03",
+      "date_publication": "2026-07-18",
       "source": "senjob",
-      "url": "https://senjob.com/sn/jobseekers/ingénieur-spécialisé-en-génie-civil-–-responsable-de-la-supervision-des-travaux_e_162621.html"
+      "url": "https://senjob.com/sn/jobseekers/it---data-science-intern_e_162857.html"
+    },
+    {
+      "titre": "Administrateur de base de données",
+      "entreprise": "Non precise",
+      "lieu": "Dakar",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-16",
+      "source": "senjob",
+      "url": "https://senjob.com/sn/jobseekers/administrateur-de-base-de-données_e_162835.html"
     },
     {
       "titre": "Administrateur Réseaux et Systèmes Confirmé",
@@ -3473,20 +2572,6 @@
       "date_publication": "2026-07-08",
       "source": "senjob",
       "url": "https://senjob.com/sn/jobseekers/consultant,-ai-engineer_e_162703.html"
-    },
-    {
-      "titre": "IT & Data Science Intern",
-      "entreprise": "Non precise",
-      "lieu": "Dakar",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-07-08",
-      "source": "senjob",
-      "url": "https://senjob.com/sn/jobseekers/it---data-science-intern_e_162702.html"
     },
     {
       "titre": "Data Engineer Manager",
@@ -3549,6 +2634,20 @@
       "date_publication": "2026-02-18",
       "source": "senjob",
       "url": "https://senjob.com/sn/jobseekers/développeur-back-end-experimenté-java_e_160434.html"
+    },
+    {
+      "titre": "Ingénieur Spécialisé en Génie Électromécanique �...",
+      "entreprise": "Non precise",
+      "lieu": "Dakar",
+      "categorie": "Data Science",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-07-03",
+      "source": "senjob",
+      "url": "https://senjob.com/sn/jobseekers/ingénieur-spécialisé-en-génie-Électromécanique-–-responsable-de-la-supervision-des-lots-techniques--mep-_e_162622.html"
     }
   ]
 }

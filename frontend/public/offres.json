@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:55:46",
+  "generated_at": "2026-08-25T08:50:56",
   "offres": [
     {
       "titre": "Analyste Financier",
@@ -14,7 +14,7 @@
       "salaire_max": 628263.0,
       "salaire_ref": 587289.5,
       "anomalie": false,
-      "date_publication": "2026-08-01",
+      "date_publication": "2026-08-02",
       "source": "demo",
       "url": "https://demo.local/offre/7912"
     },
@@ -32,7 +32,7 @@
       "salaire_max": 1415951.0,
       "salaire_ref": 1323606.5,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "demo",
       "url": "https://demo.local/offre/8359"
     },
@@ -52,7 +52,7 @@
       "salaire_max": 710026.0,
       "salaire_ref": 663720.0,
       "anomalie": false,
-      "date_publication": "2026-08-02",
+      "date_publication": "2026-08-03",
       "source": "demo",
       "url": "https://demo.local/offre/2519"
     },
@@ -72,7 +72,7 @@
       "salaire_max": 1778285.0,
       "salaire_ref": 1662310.0,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-24",
       "source": "demo",
       "url": "https://demo.local/offre/5803"
     },
@@ -90,7 +90,7 @@
       "salaire_max": 543872.0,
       "salaire_ref": 508402.5,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-24",
       "source": "demo",
       "url": "https://demo.local/offre/2654"
     },
@@ -109,7 +109,7 @@
       "salaire_max": 1233407.0,
       "salaire_ref": 1152967.5,
       "anomalie": false,
-      "date_publication": "2026-08-18",
+      "date_publication": "2026-08-19",
       "source": "demo",
       "url": "https://demo.local/offre/5010"
     },
@@ -127,7 +127,7 @@
       "salaire_max": 1576751.0,
       "salaire_ref": 1473919.5,
       "anomalie": false,
-      "date_publication": "2026-08-02",
+      "date_publication": "2026-08-03",
       "source": "demo",
       "url": "https://demo.local/offre/1525"
     },
@@ -146,7 +146,7 @@
       "salaire_max": 1258940.0,
       "salaire_ref": 1176835.5,
       "anomalie": false,
-      "date_publication": "2026-07-27",
+      "date_publication": "2026-07-28",
       "source": "demo",
       "url": "https://demo.local/offre/3340"
     },
@@ -166,7 +166,7 @@
       "salaire_max": 1475795.0,
       "salaire_ref": 1379547.5,
       "anomalie": false,
-      "date_publication": "2026-08-06",
+      "date_publication": "2026-08-07",
       "source": "demo",
       "url": "https://demo.local/offre/9348"
     },
@@ -184,7 +184,7 @@
       "salaire_max": 989304.0,
       "salaire_ref": 924784.5,
       "anomalie": false,
-      "date_publication": "2026-08-04",
+      "date_publication": "2026-08-05",
       "source": "demo",
       "url": "https://demo.local/offre/7304"
     },
@@ -201,7 +201,7 @@
       "salaire_max": 1472113.0,
       "salaire_ref": 1376106.0,
       "anomalie": false,
-      "date_publication": "2026-07-28",
+      "date_publication": "2026-07-29",
       "source": "demo",
       "url": "https://demo.local/offre/5371"
     },
@@ -220,7 +220,7 @@
       "salaire_max": 1007127.0,
       "salaire_ref": 941445.0,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "demo",
       "url": "https://demo.local/offre/9317"
     },
@@ -237,7 +237,7 @@
       "salaire_max": 1167915.0,
       "salaire_ref": 1091747.0,
       "anomalie": false,
-      "date_publication": "2026-07-25",
+      "date_publication": "2026-07-26",
       "source": "demo",
       "url": "https://demo.local/offre/9005"
     },
@@ -256,7 +256,7 @@
       "salaire_max": 1692873.0,
       "salaire_ref": 1582468.5,
       "anomalie": false,
-      "date_publication": "2026-07-30",
+      "date_publication": "2026-07-31",
       "source": "demo",
       "url": "https://demo.local/offre/2403"
     },
@@ -274,7 +274,7 @@
       "salaire_max": 1102369.0,
       "salaire_ref": 1030475.5,
       "anomalie": false,
-      "date_publication": "2026-07-31",
+      "date_publication": "2026-08-01",
       "source": "demo",
       "url": "https://demo.local/offre/3705"
     },
@@ -292,7 +292,7 @@
       "salaire_max": 1225315.0,
       "salaire_ref": 1145403.5,
       "anomalie": false,
-      "date_publication": "2026-07-31",
+      "date_publication": "2026-08-01",
       "source": "demo",
       "url": "https://demo.local/offre/8177"
     },
@@ -310,7 +310,7 @@
       "salaire_max": 925184.0,
       "salaire_ref": 864846.0,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "demo",
       "url": "https://demo.local/offre/2163"
     },
@@ -329,7 +329,7 @@
       "salaire_max": 497878.0,
       "salaire_ref": 465408.0,
       "anomalie": false,
-      "date_publication": "2026-07-28",
+      "date_publication": "2026-07-29",
       "source": "demo",
       "url": "https://demo.local/offre/8953"
     },
@@ -349,7 +349,7 @@
       "salaire_max": 1375340.0,
       "salaire_ref": 1285644.0,
       "anomalie": false,
-      "date_publication": "2026-07-30",
+      "date_publication": "2026-07-31",
       "source": "demo",
       "url": "https://demo.local/offre/8651"
     },
@@ -366,7 +366,7 @@
       "salaire_max": 869151.0,
       "salaire_ref": 812467.5,
       "anomalie": false,
-      "date_publication": "2026-07-30",
+      "date_publication": "2026-07-31",
       "source": "demo",
       "url": "https://demo.local/offre/4116"
     },
@@ -383,7 +383,7 @@
       "salaire_max": 1075365.0,
       "salaire_ref": 1005232.5,
       "anomalie": false,
-      "date_publication": "2026-08-17",
+      "date_publication": "2026-08-18",
       "source": "demo",
       "url": "https://demo.local/offre/2604"
     },
@@ -401,7 +401,7 @@
       "salaire_max": 1598695.0,
       "salaire_ref": 1494432.5,
       "anomalie": false,
-      "date_publication": "2026-07-28",
+      "date_publication": "2026-07-29",
       "source": "demo",
       "url": "https://demo.local/offre/8886"
     },
@@ -420,7 +420,7 @@
       "salaire_max": 807599.0,
       "salaire_ref": 754929.5,
       "anomalie": false,
-      "date_publication": "2026-08-12",
+      "date_publication": "2026-08-13",
       "source": "demo",
       "url": "https://demo.local/offre/8973"
     },
@@ -437,7 +437,7 @@
       "salaire_max": 1503411.0,
       "salaire_ref": 1405362.5,
       "anomalie": false,
-      "date_publication": "2026-08-01",
+      "date_publication": "2026-08-02",
       "source": "demo",
       "url": "https://demo.local/offre/1821"
     },
@@ -455,7 +455,7 @@
       "salaire_max": 1129870.0,
       "salaire_ref": 1056183.0,
       "anomalie": false,
-      "date_publication": "2026-08-22",
+      "date_publication": "2026-08-23",
       "source": "demo",
       "url": "https://demo.local/offre/7615"
     },
@@ -474,7 +474,7 @@
       "salaire_max": 1195527.0,
       "salaire_ref": 1117558.0,
       "anomalie": false,
-      "date_publication": "2026-08-03",
+      "date_publication": "2026-08-04",
       "source": "demo",
       "url": "https://demo.local/offre/5351"
     },
@@ -491,7 +491,7 @@
       "salaire_max": 1925267.0,
       "salaire_ref": 1799706.5,
       "anomalie": false,
-      "date_publication": "2026-07-31",
+      "date_publication": "2026-08-01",
       "source": "demo",
       "url": "https://demo.local/offre/2638"
     },
@@ -508,7 +508,7 @@
       "salaire_max": 1542598.0,
       "salaire_ref": 1441994.0,
       "anomalie": false,
-      "date_publication": "2026-07-30",
+      "date_publication": "2026-07-31",
       "source": "demo",
       "url": "https://demo.local/offre/2697"
     },
@@ -527,7 +527,7 @@
       "salaire_max": 992447.0,
       "salaire_ref": 927722.5,
       "anomalie": false,
-      "date_publication": "2026-08-16",
+      "date_publication": "2026-08-17",
       "source": "demo",
       "url": "https://demo.local/offre/9280"
     },
@@ -546,7 +546,7 @@
       "salaire_max": 1315773.0,
       "salaire_ref": 1229962.0,
       "anomalie": false,
-      "date_publication": "2026-07-29",
+      "date_publication": "2026-07-30",
       "source": "demo",
       "url": "https://demo.local/offre/5291"
     },
@@ -563,7 +563,7 @@
       "salaire_max": 1481375.0,
       "salaire_ref": 1384764.0,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "demo",
       "url": "https://demo.local/offre/9938"
     },
@@ -582,7 +582,7 @@
       "salaire_max": 843681.0,
       "salaire_ref": 788658.5,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-24",
       "source": "demo",
       "url": "https://demo.local/offre/5088"
     },
@@ -600,7 +600,7 @@
       "salaire_max": 950034.0,
       "salaire_ref": 888075.5,
       "anomalie": false,
-      "date_publication": "2026-08-05",
+      "date_publication": "2026-08-06",
       "source": "demo",
       "url": "https://demo.local/offre/7755"
     },
@@ -618,7 +618,7 @@
       "salaire_max": 1186468.0,
       "salaire_ref": 1109090.0,
       "anomalie": false,
-      "date_publication": "2026-07-30",
+      "date_publication": "2026-07-31",
       "source": "demo",
       "url": "https://demo.local/offre/7267"
     },
@@ -637,7 +637,7 @@
       "salaire_max": 1245061.0,
       "salaire_ref": 1163861.5,
       "anomalie": false,
-      "date_publication": "2026-08-13",
+      "date_publication": "2026-08-14",
       "source": "demo",
       "url": "https://demo.local/offre/6378"
     },
@@ -656,7 +656,7 @@
       "salaire_max": 1189272.0,
       "salaire_ref": 1111711.0,
       "anomalie": false,
-      "date_publication": "2026-08-12",
+      "date_publication": "2026-08-13",
       "source": "demo",
       "url": "https://demo.local/offre/5349"
     },
@@ -676,7 +676,7 @@
       "salaire_max": 1638323.0,
       "salaire_ref": 1531476.0,
       "anomalie": false,
-      "date_publication": "2026-08-14",
+      "date_publication": "2026-08-15",
       "source": "demo",
       "url": "https://demo.local/offre/4114"
     },
@@ -694,7 +694,7 @@
       "salaire_max": 4748597.0,
       "salaire_ref": 4438906.0,
       "anomalie": true,
-      "date_publication": "2026-08-03",
+      "date_publication": "2026-08-04",
       "source": "demo",
       "url": "https://demo.local/offre/6409"
     },
@@ -713,7 +713,7 @@
       "salaire_max": 879646.0,
       "salaire_ref": 822278.0,
       "anomalie": false,
-      "date_publication": "2026-08-08",
+      "date_publication": "2026-08-09",
       "source": "demo",
       "url": "https://demo.local/offre/3085"
     },
@@ -732,7 +732,7 @@
       "salaire_max": 1014852.0,
       "salaire_ref": 948666.0,
       "anomalie": false,
-      "date_publication": "2026-08-05",
+      "date_publication": "2026-08-06",
       "source": "demo",
       "url": "https://demo.local/offre/5700"
     },
@@ -750,7 +750,7 @@
       "salaire_max": 1338183.0,
       "salaire_ref": 1250910.5,
       "anomalie": false,
-      "date_publication": "2026-08-03",
+      "date_publication": "2026-08-04",
       "source": "demo",
       "url": "https://demo.local/offre/2389"
     },
@@ -769,7 +769,7 @@
       "salaire_max": 1480768.0,
       "salaire_ref": 1384196.5,
       "anomalie": false,
-      "date_publication": "2026-08-17",
+      "date_publication": "2026-08-18",
       "source": "demo",
       "url": "https://demo.local/offre/1757"
     },
@@ -787,7 +787,7 @@
       "salaire_max": 1564409.0,
       "salaire_ref": 1462382.5,
       "anomalie": false,
-      "date_publication": "2026-08-06",
+      "date_publication": "2026-08-07",
       "source": "demo",
       "url": "https://demo.local/offre/4997"
     },
@@ -804,7 +804,7 @@
       "salaire_max": 1733568.0,
       "salaire_ref": 1620509.5,
       "anomalie": false,
-      "date_publication": "2026-07-27",
+      "date_publication": "2026-07-28",
       "source": "demo",
       "url": "https://demo.local/offre/3881"
     },
@@ -822,7 +822,7 @@
       "salaire_max": 606340.0,
       "salaire_ref": 566796.5,
       "anomalie": false,
-      "date_publication": "2026-08-10",
+      "date_publication": "2026-08-11",
       "source": "demo",
       "url": "https://demo.local/offre/6198"
     },
@@ -842,7 +842,7 @@
       "salaire_max": 1898541.0,
       "salaire_ref": 1774723.5,
       "anomalie": false,
-      "date_publication": "2026-08-07",
+      "date_publication": "2026-08-08",
       "source": "demo",
       "url": "https://demo.local/offre/5543"
     },
@@ -860,7 +860,7 @@
       "salaire_max": 874261.0,
       "salaire_ref": 817244.0,
       "anomalie": false,
-      "date_publication": "2026-08-02",
+      "date_publication": "2026-08-03",
       "source": "demo",
       "url": "https://demo.local/offre/9890"
     },
@@ -877,7 +877,7 @@
       "salaire_max": 1274655.0,
       "salaire_ref": 1191525.5,
       "anomalie": false,
-      "date_publication": "2026-07-27",
+      "date_publication": "2026-07-28",
       "source": "demo",
       "url": "https://demo.local/offre/8814"
     },
@@ -895,7 +895,7 @@
       "salaire_max": 1697773.0,
       "salaire_ref": 1587049.0,
       "anomalie": false,
-      "date_publication": "2026-08-11",
+      "date_publication": "2026-08-12",
       "source": "demo",
       "url": "https://demo.local/offre/8140"
     },
@@ -913,7 +913,7 @@
       "salaire_max": 1767448.0,
       "salaire_ref": 1652180.0,
       "anomalie": false,
-      "date_publication": "2026-08-12",
+      "date_publication": "2026-08-13",
       "source": "demo",
       "url": "https://demo.local/offre/1441"
     },
@@ -933,7 +933,7 @@
       "salaire_max": 1321847.0,
       "salaire_ref": 1235640.0,
       "anomalie": false,
-      "date_publication": "2026-08-20",
+      "date_publication": "2026-08-21",
       "source": "demo",
       "url": "https://demo.local/offre/4467"
     },
@@ -953,7 +953,7 @@
       "salaire_max": 1952020.0,
       "salaire_ref": 1824714.5,
       "anomalie": false,
-      "date_publication": "2026-07-29",
+      "date_publication": "2026-07-30",
       "source": "demo",
       "url": "https://demo.local/offre/1853"
     },
@@ -970,7 +970,7 @@
       "salaire_max": 1360926.0,
       "salaire_ref": 1272170.0,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-24",
       "source": "demo",
       "url": "https://demo.local/offre/1333"
     },
@@ -988,7 +988,7 @@
       "salaire_max": 655437.0,
       "salaire_ref": 612691.5,
       "anomalie": false,
-      "date_publication": "2026-08-06",
+      "date_publication": "2026-08-07",
       "source": "demo",
       "url": "https://demo.local/offre/3749"
     },
@@ -1007,7 +1007,7 @@
       "salaire_max": 714978.0,
       "salaire_ref": 668349.0,
       "anomalie": false,
-      "date_publication": "2026-07-25",
+      "date_publication": "2026-07-26",
       "source": "demo",
       "url": "https://demo.local/offre/7149"
     },
@@ -1025,7 +1025,7 @@
       "salaire_max": 1806554.0,
       "salaire_ref": 1688735.5,
       "anomalie": false,
-      "date_publication": "2026-08-04",
+      "date_publication": "2026-08-05",
       "source": "demo",
       "url": "https://demo.local/offre/2983"
     },
@@ -1044,7 +1044,7 @@
       "salaire_max": 964356.0,
       "salaire_ref": 901463.5,
       "anomalie": false,
-      "date_publication": "2026-08-22",
+      "date_publication": "2026-08-23",
       "source": "demo",
       "url": "https://demo.local/offre/8102"
     },
@@ -1063,7 +1063,7 @@
       "salaire_max": 1100137.0,
       "salaire_ref": 1028389.0,
       "anomalie": false,
-      "date_publication": "2026-08-19",
+      "date_publication": "2026-08-20",
       "source": "demo",
       "url": "https://demo.local/offre/5397"
     },
@@ -1083,7 +1083,7 @@
       "salaire_max": 1118605.0,
       "salaire_ref": 1045652.5,
       "anomalie": false,
-      "date_publication": "2026-08-17",
+      "date_publication": "2026-08-18",
       "source": "demo",
       "url": "https://demo.local/offre/6325"
     },
@@ -1102,7 +1102,7 @@
       "salaire_max": 1215401.0,
       "salaire_ref": 1136136.0,
       "anomalie": false,
-      "date_publication": "2026-08-16",
+      "date_publication": "2026-08-17",
       "source": "demo",
       "url": "https://demo.local/offre/2402"
     },
@@ -1122,7 +1122,7 @@
       "salaire_max": 1094796.0,
       "salaire_ref": 1023396.5,
       "anomalie": false,
-      "date_publication": "2026-08-02",
+      "date_publication": "2026-08-03",
       "source": "demo",
       "url": "https://demo.local/offre/4630"
     },
@@ -1141,7 +1141,7 @@
       "salaire_max": 859884.0,
       "salaire_ref": 803805.0,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-24",
       "source": "demo",
       "url": "https://demo.local/offre/5658"
     },
@@ -1161,7 +1161,7 @@
       "salaire_max": 1104284.0,
       "salaire_ref": 1032265.5,
       "anomalie": false,
-      "date_publication": "2026-08-21",
+      "date_publication": "2026-08-22",
       "source": "demo",
       "url": "https://demo.local/offre/8253"
     },
@@ -1178,7 +1178,7 @@
       "salaire_max": 647629.0,
       "salaire_ref": 605392.5,
       "anomalie": false,
-      "date_publication": "2026-08-05",
+      "date_publication": "2026-08-06",
       "source": "demo",
       "url": "https://demo.local/offre/2330"
     },
@@ -1198,7 +1198,7 @@
       "salaire_max": 808225.0,
       "salaire_ref": 755515.0,
       "anomalie": false,
-      "date_publication": "2026-08-11",
+      "date_publication": "2026-08-12",
       "source": "demo",
       "url": "https://demo.local/offre/5720"
     },
@@ -1217,7 +1217,7 @@
       "salaire_max": 741476.0,
       "salaire_ref": 693119.0,
       "anomalie": false,
-      "date_publication": "2026-07-26",
+      "date_publication": "2026-07-27",
       "source": "demo",
       "url": "https://demo.local/offre/9922"
     },
@@ -1237,7 +1237,7 @@
       "salaire_max": 1941737.0,
       "salaire_ref": 1815102.0,
       "anomalie": false,
-      "date_publication": "2026-08-16",
+      "date_publication": "2026-08-17",
       "source": "demo",
       "url": "https://demo.local/offre/6280"
     },
@@ -1254,7 +1254,7 @@
       "salaire_max": 1330610.0,
       "salaire_ref": 1243831.5,
       "anomalie": false,
-      "date_publication": "2026-07-29",
+      "date_publication": "2026-07-30",
       "source": "demo",
       "url": "https://demo.local/offre/1659"
     },
@@ -1274,7 +1274,7 @@
       "salaire_max": 1023850.0,
       "salaire_ref": 957077.5,
       "anomalie": false,
-      "date_publication": "2026-08-06",
+      "date_publication": "2026-08-07",
       "source": "demo",
       "url": "https://demo.local/offre/6460"
     },
@@ -1293,7 +1293,7 @@
       "salaire_max": 1411474.0,
       "salaire_ref": 1319421.5,
       "anomalie": false,
-      "date_publication": "2026-08-09",
+      "date_publication": "2026-08-10",
       "source": "demo",
       "url": "https://demo.local/offre/2442"
     },
@@ -1310,7 +1310,7 @@
       "salaire_max": 1062379.0,
       "salaire_ref": 993093.5,
       "anomalie": false,
-      "date_publication": "2026-07-28",
+      "date_publication": "2026-07-29",
       "source": "demo",
       "url": "https://demo.local/offre/7770"
     },
@@ -1330,9 +1330,39 @@
       "salaire_max": 1291113.0,
       "salaire_ref": 1206910.0,
       "anomalie": false,
-      "date_publication": "2026-08-04",
+      "date_publication": "2026-08-05",
       "source": "demo",
       "url": "https://demo.local/offre/5719"
+    },
+    {
+      "titre": "GLUCOBAY TASK FORCE",
+      "entreprise": "Bayer",
+      "lieu": "Siliguri,",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102"
+    },
+    {
+      "titre": "Residential Technician",
+      "entreprise": "The Abaco Club",
+      "lieu": "Marsh Harbour,",
+      "categorie": "Data Science",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "remoteok",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096"
     },
     {
       "titre": "Retail Store Associate",
@@ -2165,38 +2195,55 @@
       "url": "https://remoteOK.com/remote-jobs/remote-flm-hovis-ltd-1136925"
     },
     {
-      "titre": "Planner Cayman Islands",
-      "entreprise": "Bouygues BÃ¢timent International",
-      "lieu": "George Town,",
+      "titre": "Founding Sales Development Representative 🇩🇪",
+      "entreprise": "Bigblue",
+      "lieu": "Berlin",
       "categorie": "Autre",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863"
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bigblue/founding-sales-development-representative-berlin-171868"
     },
     {
-      "titre": "Field Services Engineer",
-      "entreprise": "Schwing Stetter India",
-      "lieu": "Dehradun,",
+      "titre": "Ingenieur / Techniker (m/w/d) Instandhaltung pharmazeutischer Produktionsanlagen in Mannheim (1485)",
+      "entreprise": "BRÜGGEN ENGINEERING GmbH",
+      "lieu": "Mannheim",
       "categorie": "Autre",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-services-engineer-schwing-stetter-india-1136862"
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/ingenieur-techniker-instandhaltung-pharmazeutischer-produktionsanlagen-in-mannheim-1485-311321"
     },
     {
-      "titre": "Billing Executive",
-      "entreprise": "Sanya Pharma Pvt Ltd",
-      "lieu": "Patna,",
-      "categorie": "Business Intelligence",
+      "titre": "Verification Engineer",
+      "entreprise": "Ubitium GmbH",
+      "lieu": "Rülzheim",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "Git"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/ubitium-gmbh/verification-engineer-rulzheim-3922"
+    },
+    {
+      "titre": "Ingenieur (m/w/d) Qualitätssicherung - Batch Record Review in Mannheim (1604)",
+      "entreprise": "BRÜGGEN ENGINEERING GmbH",
+      "lieu": "Mannheim",
+      "categorie": "Autre",
       "competences": [
         "Excel"
       ],
@@ -2204,30 +2251,58 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-billing-executive-sanya-pharma-pvt-ltd-1136899"
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/ingenieur-qualitatssicherung-batch-record-review-in-mannheim-1604-390400"
     },
     {
-      "titre": "Sales Team Member Cotton On Ballina Fair",
-      "entreprise": "Cotton On Group",
-      "lieu": "Ballina,",
+      "titre": "Regulatory Affairs Manager (m/w/d) in Mannheim (1576)",
+      "entreprise": "BRÜGGEN ENGINEERING GmbH",
+      "lieu": "Mannheim",
       "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/regulatory-affairs-manager-in-mannheim-1576-300353"
+    },
+    {
+      "titre": "Mobile Developer & UI/UX Product Designer (m/w/d)",
+      "entreprise": "Liotec GmbH",
+      "lieu": "Berlin",
+      "categorie": "Developpement Logiciel",
       "competences": [
-        "Spark"
+        "R"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970"
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/liotec-gmbh/mobile-developer-ui-ux-product-designer-berlin-348396"
     },
     {
-      "titre": "Influencer Marketing Lead",
-      "entreprise": "Aftershoot",
-      "lieu": "Remote",
+      "titre": "Software Developer (m/w/d) | Festanstellung & Werkstudent",
+      "entreprise": "leasyro GmbH",
+      "lieu": "Berlin",
+      "categorie": "Developpement Logiciel",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/leasyro-gmbh/software-developer-festanstellung-werkstudent-berlin-403295"
+    },
+    {
+      "titre": "Business Development Manager E-Rechnung (all genders) - 100% Homeoffice",
+      "entreprise": "fino data services GmbH",
+      "lieu": "Kassel",
       "categorie": "Autre",
       "competences": [
         "Go"
@@ -2236,164 +2311,123 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-lead-aftershoot-1136843"
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/business-development-manager-e-rechnung-all-genders-100-homeoffice-kassel-29917"
     },
     {
-      "titre": "Lead Product Designer",
-      "entreprise": "HighLevel",
-      "lieu": "India",
-      "categorie": "Data Science",
-      "competences": [
-        "Machine Learning",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-17",
-      "source": "remoteok",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841"
-    },
-    {
-      "titre": "Working Student IT Operations (m/f/d)",
-      "entreprise": "Coffee Circle",
-      "lieu": "Berlin",
+      "titre": "Technischer Systemplaner / Technischer Zeichner (m/w/d) Gebäudeautomation / MSR",
+      "entreprise": "ISG - automation GmbH",
+      "lieu": "Rostock",
       "categorie": "Autre",
-      "competences": [
-        "Linux"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/coffee-circle/working-student-it-operations-berlin-99217"
-    },
-    {
-      "titre": "Product Owner Data & AI (m/w/d) – fluege.de",
-      "entreprise": "TC Flights Germany GmbH",
-      "lieu": "Berlin",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "SQL",
-        "AWS",
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-berlin-85158"
-    },
-    {
-      "titre": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
-      "entreprise": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "lieu": "Münster",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "SQL",
-        "Java",
-        "Docker",
-        "Kubernetes",
-        "Git",
-        "PostgreSQL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-softwareentwickler-backend-microservices-munster-286032"
-    },
-    {
-      "titre": "Software Engineer, Platform - Berlin, Germany",
-      "entreprise": "Speechify",
-      "lieu": "Berlin, Germany",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "GCP",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-berlin-germany-285639"
-    },
-    {
-      "titre": "Senior Flutter Developer (m/f/d)*",
-      "entreprise": "Bloomwell Group GmbH",
-      "lieu": "Office Frankfurt",
-      "categorie": "Developpement Logiciel",
       "competences": [],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/bloomwell-group-gmbh/senior-flutter-developer-office-frankfurt-66910"
+      "url": "https://www.arbeitnow.com/jobs/companies/isg-automation-gmbh/technischer-systemplaner-technischer-zeichner-gebaudeautomation-msr-rostock-226807"
     },
     {
-      "titre": "Founding CTO/CPTO",
-      "entreprise": "TechBiz Global GmbH",
+      "titre": "Elektroingenieur, Projektingenieur (m/w/d) Projektleitung Gebäudeautomatisierung",
+      "entreprise": "ISG - automation GmbH",
+      "lieu": "Berlin",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/isg-automation-gmbh/elektroingenieur-projektingenieur-projektleitung-gebaudeautomatisierung-berlin-307438"
+    },
+    {
+      "titre": "SPS-Programmierer*in / Automation & Control Engineer",
+      "entreprise": "greentech corporate solutions GmbH",
+      "lieu": "Hamburg",
+      "categorie": "Autre",
+      "competences": [
+        "Git"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/greentech-corporate-solutions-gmbh/sps-programmiererin-automation-control-engineer-hamburg-107338"
+    },
+    {
+      "titre": "Senior Machine Learning Engineer I",
+      "entreprise": "SumUp",
+      "lieu": "Berlin, Berlin, Germany",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "Docker",
+        "Airflow",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Git",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-409615"
+    },
+    {
+      "titre": "Senior Platform Engineer, Event Streaming Platform (Kafka)",
+      "entreprise": "Wolt - English",
       "lieu": "Berlin, Berlin, Germany",
       "categorie": "Autre",
       "competences": [
+        "Python",
+        "Java",
+        "Go",
         "Kafka",
+        "Excel",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-platform-engineer-event-streaming-platform-kafka-berlin-274171"
+    },
+    {
+      "titre": "Full-Stack CMS Developer (f/m/d)",
+      "entreprise": "Productsup",
+      "lieu": "Berlin",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "JavaScript",
         "AWS",
-        "Azure",
-        "GCP",
+        "Git",
         "API"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-cto-cpto-berlin-397741"
+      "url": "https://www.arbeitnow.com/jobs/companies/productsup/full-stack-cms-developer-berlin-13833"
     },
     {
-      "titre": "Senior/Leading Software Engineer (fintech)",
-      "entreprise": "TechBiz Global GmbH",
-      "lieu": "Remote job",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "JavaScript",
-        "TypeScript",
-        "Docker",
-        "AWS",
-        "PostgreSQL",
-        "MySQL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-137042"
-    },
-    {
-      "titre": "Working Student in Sales Excellence & Commercial Operations (m/f/d)",
-      "entreprise": "Ineratec Gmbh 1",
-      "lieu": "Karlsruhe",
-      "categorie": "Data Science",
+      "titre": "Junior Google Performance & Analytics Manager (m/w/d)",
+      "entreprise": "eFLY Marketplace Services GmbH",
+      "lieu": "Stuttgart",
+      "categorie": "Autre",
       "competences": [
         "Excel"
       ],
@@ -2401,469 +2435,13 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/working-student-in-sales-excellence-commercial-operations-karlsruhe-269300"
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/junior-google-performance-analytics-manager-stuttgart-187968"
     },
     {
-      "titre": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
-      "entreprise": "Ineratec Gmbh 1",
-      "lieu": "Karlsruhe",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841"
-    },
-    {
-      "titre": "Senior Frontend Software Engineer - Angular (m/f/x)",
-      "entreprise": "neoshare",
-      "lieu": "Berlin",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "TypeScript",
-        "R",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-55404"
-    },
-    {
-      "titre": "Head of AI Engineering (f/m/x)",
-      "entreprise": "neoshare",
-      "lieu": "Frankfurt am Main",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "Java",
-        "Kubernetes",
-        "PyTorch",
-        "AWS",
-        "Machine Learning",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-408406"
-    },
-    {
-      "titre": "Senior Python Engineer, Platform Libraries (m/f/d)",
-      "entreprise": "Unitelabs",
-      "lieu": "München",
-      "categorie": "DevOps / Cloud",
-      "competences": [
-        "Python",
-        "TypeScript",
-        "R",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "PostgreSQL",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-490367"
-    },
-    {
-      "titre": "Forward Deployed Engineer (m/f/d)",
-      "entreprise": "Blueocean Technologies Gmbh",
-      "lieu": "Berlin",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "SQL",
-        "TypeScript",
-        "Go",
-        "PostgreSQL",
-        "FastAPI"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/forward-deployed-engineer-berlin-29335"
-    },
-    {
-      "titre": "Senior DevOps Engineer",
-      "entreprise": "Apex Ai",
-      "lieu": "Munich",
-      "categorie": "DevOps / Cloud",
-      "competences": [
-        "Python",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Linux",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/senior-devops-engineer-munich-150771"
-    },
-    {
-      "titre": "Werkstudent:in Vertrieb / Sales Development Representative (m/w/d)",
-      "entreprise": "Pink University Gmbh",
-      "lieu": "Hamburg & Remote",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/pink-university-gmbh/remote-werkstudentin-vertrieb-sales-development-representative-67291"
-    },
-    {
-      "titre": "Digital Ecosystem Working Student (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/digital-ecosystem-working-student-munchen-323938"
-    },
-    {
-      "titre": "Data Platform Engineer Working Student (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Data Engineering",
-      "competences": [
-        "Python",
-        "SQL",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Git",
-        "ETL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-230477"
-    },
-    {
-      "titre": "Data Engineer Working Student (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "Köln",
-      "categorie": "Data Engineering",
-      "competences": [
-        "Python",
-        "SQL",
-        "Power BI",
-        "ETL"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-358872"
-    },
-    {
-      "titre": "Cybersecurity Working Student (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-223579"
-    },
-    {
-      "titre": "Cybersecurity Manager (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [
-        "Azure"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-manager-munchen-340247"
-    },
-    {
-      "titre": "Cybersecurity Intern (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-226658"
-    },
-    {
-      "titre": "Cybersecurity & Risk Management Consultant (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-risk-management-consultant-munchen-331150"
-    },
-    {
-      "titre": "Cybersecurity (Senior) Software Engineer (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Python",
-        "Java",
-        "TypeScript",
-        "Go",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Git"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-software-engineer-munchen-150233"
-    },
-    {
-      "titre": "Cybersecurity (Senior) Consultant (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-senior-consultant-munchen-98172"
-    },
-    {
-      "titre": "Cloud (Senior) Engineer / Architect (m/ w/ d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "Köln",
-      "categorie": "DevOps / Cloud",
-      "competences": [
-        "Python",
-        "Java",
-        "Kubernetes",
-        "Kafka",
-        "Linux"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cloud-senior-engineer-architect-m-w-d-koln-375633"
-    },
-    {
-      "titre": "AI Governance (Senior) Consultant (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-91127"
-    },
-    {
-      "titre": "AI (Senior)Consultant (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "TensorFlow",
-        "PyTorch",
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-seniorconsultant-munchen-81718"
-    },
-    {
-      "titre": "AI (Senior) Developer (m/w/d)",
-      "entreprise": "Trusteq Gmbh",
-      "lieu": "München",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "Go",
-        "Docker",
-        "Kubernetes",
-        "Machine Learning",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-366884"
-    },
-    {
-      "titre": "Junior Software Engineer (m/f/d) - focus on iOS",
-      "entreprise": "Ottonova",
-      "lieu": "München",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Git"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/ottonova/junior-software-engineer-focus-on-ios-munchen-455964"
-    },
-    {
-      "titre": "Senior Sales Manager - Infrastruktur & Services (all genders)",
-      "entreprise": "Init Ag",
-      "lieu": "Hamburg",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-sales-manager-infrastruktur-services-all-genders-hamburg-380783"
-    },
-    {
-      "titre": "Senior Frontend Angular Developer (all genders)",
-      "entreprise": "Init Ag",
-      "lieu": "Hamburg",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "JavaScript",
-        "TypeScript"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-315667"
-    },
-    {
-      "titre": "Senior Exchange & Messaging Engineer (all genders)",
-      "entreprise": "Init Ag",
-      "lieu": "Hamburg",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-exchange-messaging-engineer-all-genders-hamburg-448083"
-    },
-    {
-      "titre": "Consultant Data & AI / Digitale Transformation Public Sector (all genders)",
-      "entreprise": "Init Ag",
-      "lieu": "Mainz",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "SQL",
-        "Git",
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-413151"
-    },
-    {
-      "titre": "Senior Social Media & Digital Marketing Manager (B2B) (m/f/d)",
-      "entreprise": "Q.ANT GmbH",
-      "lieu": "Stuttgart",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/qant-gmbh/senior-social-media-digital-marketing-manager-b2b-stuttgart-36113"
-    },
-    {
-      "titre": "Native Processing Server Architect (m/f/d)",
-      "entreprise": "Q.ANT GmbH",
+      "titre": "Senior Google Performance & Analytics Manager (m/w/d)",
+      "entreprise": "eFLY Marketplace Services GmbH",
       "lieu": "Stuttgart",
       "categorie": "Autre",
       "competences": [
@@ -2873,414 +2451,70 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-24",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.com/jobs/companies/qant-gmbh/native-processing-server-architect-stuttgart-51310"
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/senior-google-performance-analytics-manager-stuttgart-1571"
     },
     {
-      "titre": "AI/ML Engineer",
-      "entreprise": "Jobgether",
-      "lieu": "UK",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "Scikit-learn",
-        "TensorFlow",
-        "PyTorch",
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-ml-engineer-uk-407119"
-    },
-    {
-      "titre": "Senior Software Engineer | Identity and Access Management | Full-Stack",
-      "entreprise": "Deepl",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "JavaScript",
-        "Go",
-        "Kubernetes"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-24",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-software-engineer-identity-and-access-management-full-stack-london-160338"
-    },
-    {
-      "titre": "Senior Enterprise Architect (Associate, Contract)",
-      "entreprise": "Intelance",
-      "lieu": "London",
-      "categorie": "Data Science",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-enterprise-architect-associate-contract-london-383297"
-    },
-    {
-      "titre": "Broker Development Manager",
-      "entreprise": "Flock",
-      "lieu": "Manchester",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/broker-development-manager-manchester-105994"
-    },
-    {
-      "titre": "Engineering Lead",
-      "entreprise": "Flock",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [
-        "TypeScript",
-        "AWS",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/flock/engineering-lead-london-428181"
-    },
-    {
-      "titre": "Security Architect",
-      "entreprise": "Intelance",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [
-        "Go",
-        "API"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/security-architect-london-496869"
-    },
-    {
-      "titre": "Oracle Technical Architect",
-      "entreprise": "Intelance",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/oracle-technical-architect-london-179390"
-    },
-    {
-      "titre": "Software Engineer Internship (2027 Start)",
-      "entreprise": "Optiverus",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Python",
-        "Java"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-internship-2027-start-london-473646"
-    },
-    {
-      "titre": "Software Engineer - Digital Assets",
-      "entreprise": "Optiverus",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "AWS",
-        "GCP"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-digital-assets-london-104142"
-    },
-    {
-      "titre": "Software Engineer - Build Platform",
-      "entreprise": "Optiverus",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-build-platform-london-313285"
-    },
-    {
-      "titre": "Graduate Software Engineer",
-      "entreprise": "Optiverus",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Python",
-        "Java"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153"
-    },
-    {
-      "titre": "Research Scientist - 3D Reconstruction (SfM & SLAM)",
-      "entreprise": "Spaitial",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "PyTorch"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-sfm-slam-london-210402"
-    },
-    {
-      "titre": "Research Scientist - Robot Learning (VLA / WAM)",
-      "entreprise": "Spaitial",
-      "lieu": "London",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "PyTorch",
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-robot-learning-vla-wam-london-287210"
-    },
-    {
-      "titre": "Automotive Expert (United Kingdom)",
-      "entreprise": "Authority.inc",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/automotive-expert-united-kingdom-london-46206"
-    },
-    {
-      "titre": "AI & Data Expert (United Kingdom)",
-      "entreprise": "Authority.inc",
-      "lieu": "London",
-      "categorie": "Data Science",
-      "competences": [
-        "Machine Learning"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090"
-    },
-    {
-      "titre": "Cybersecurity Expert (United Kingdom)",
-      "entreprise": "Authority.inc",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/cybersecurity-expert-united-kingdom-london-123844"
-    },
-    {
-      "titre": "Technology & Software Expert (United Kingdom)",
-      "entreprise": "Authority.inc",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451"
-    },
-    {
-      "titre": "Energy & Utilities Expert (United Kingdom)",
-      "entreprise": "Authority.inc",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/energy-utilities-expert-united-kingdom-london-381162"
-    },
-    {
-      "titre": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
-      "entreprise": "Seitenbau Gmbh",
-      "lieu": "Remote",
-      "categorie": "Data Science",
-      "competences": [
-        "Python",
-        "Kubernetes"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-75299"
-    },
-    {
-      "titre": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
-      "entreprise": "Seitenbau Gmbh",
-      "lieu": "Remote",
-      "categorie": "DevOps / Cloud",
-      "competences": [
-        "Java",
-        "Docker",
-        "Kubernetes",
-        "AWS",
-        "Azure",
-        "Git",
-        "Linux"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-464804"
-    },
-    {
-      "titre": "Senior Endpoint Engineer",
-      "entreprise": "Wave",
-      "lieu": "London, England, United Kingdom",
-      "categorie": "Autre",
-      "competences": [
-        "Python",
-        "Linux"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/senior-endpoint-engineer-london-169650"
-    },
-    {
-      "titre": "Director of Data (m/f/d)",
-      "entreprise": "Moonfare",
-      "lieu": "London",
-      "categorie": "Autre",
-      "competences": [
-        "Excel"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moonfare/director-of-data-london-3168"
-    },
-    {
-      "titre": "Senior Data Engineer | Betty CA",
-      "entreprise": "Bettyjobboard",
-      "lieu": "London",
+      "titre": "Senior BI Developer (m/f/d) - Microsoft Fabric & Power BI",
+      "entreprise": "MultiBase GmbH",
+      "lieu": "Gilching",
       "categorie": "Data Engineering",
       "competences": [
         "Python",
         "SQL",
-        "Docker",
-        "Kubernetes",
-        "Airflow",
-        "Kafka",
         "Power BI",
-        "Tableau"
+        "Azure",
+        "Git",
+        "ETL"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535"
+      "url": "https://www.arbeitnow.com/jobs/companies/multibase-gmbh/senior-bi-developer-microsoft-fabric-power-bi-gilching-69880"
     },
     {
-      "titre": "Software Integration & Test Engineer (Maritime Autonomy) (all genders)",
-      "entreprise": "Stark",
-      "lieu": "Plymouth",
-      "categorie": "Developpement Logiciel",
+      "titre": "Senior Platform Engineer, Event Streaming Platform (Kafka)",
+      "entreprise": "wolt",
+      "lieu": "Berlin",
+      "categorie": "Autre",
       "competences": [
         "Python",
-        "Git",
+        "Java",
+        "Go",
+        "Kafka",
+        "Excel",
         "Linux"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stark/software-integration-test-engineer-maritime-autonomy-all-genders-plymouth-127968"
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-platform-engineer-event-streaming-platform-kafka-berlin-105281"
     },
     {
-      "titre": "Principal Product Services Engineer, Advanced Services - UK",
-      "entreprise": "Purestorage",
-      "lieu": "London",
+      "titre": "Senior Systems Engineer - Product Security (m/f/d)",
+      "entreprise": "Quantum-Systems GmbH",
+      "lieu": "München, Bayern, Germany",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-systems-engineer-product-security-munchen-341319"
+    },
+    {
+      "titre": "Senior Prototyping Engineer (f/m/d) – Aircraft Engine",
+      "entreprise": "Quantum-Systems GmbH",
+      "lieu": "Gilching, Bayern, Germany",
       "categorie": "Autre",
       "competences": [
         "Python"
@@ -3289,95 +2523,690 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/principal-product-services-engineer-advanced-services-uk-london-221151"
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-prototyping-engineer-aircraft-engine-gilching-430720"
     },
     {
-      "titre": "Software Engineering Team Lead",
-      "entreprise": "M Kopa",
-      "lieu": "London",
-      "categorie": "Developpement Logiciel",
+      "titre": "Working Student – Order Processing, Export & Master Data Administration (m/f/d)",
+      "entreprise": "Quantum-Systems GmbH",
+      "lieu": "Gilching, Bayern, Germany",
+      "categorie": "Autre",
       "competences": [
-        "Docker",
-        "Kubernetes",
-        "Kafka",
-        "AWS",
-        "Azure",
-        "GCP"
+        "Excel"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/software-engineering-team-lead-london-10280"
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-order-processing-export-master-data-administration-gilching-438859"
     },
     {
-      "titre": "Senior UI Engineer [6 Month FTC - Remote OR Onsite]",
-      "entreprise": "Rocketsciencegg",
-      "lieu": "London, UK",
-      "categorie": "Autre",
-      "competences": [],
+      "titre": "Machine Learning Consultant (m/w/d)",
+      "entreprise": "Machine Learning Reply",
+      "lieu": "Munich, Bayern, Germany",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "SQL",
+        "Java",
+        "Docker",
+        "Kubernetes",
+        "Spark",
+        "Machine Learning"
+      ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/senior-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-458163"
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/machine-learning-consultant-munich-423544"
     },
     {
-      "titre": "Principal UI Engineer [6 Month FTC - Remote OR Onsite]",
-      "entreprise": "Rocketsciencegg",
-      "lieu": "London, UK",
-      "categorie": "Autre",
-      "competences": [],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-23",
-      "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/principal-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-232033"
-    },
-    {
-      "titre": "Associate Sales Engineer",
-      "entreprise": "Influxdata",
-      "lieu": "Remote UK",
+      "titre": "Agentic AI Software Engineer",
+      "entreprise": "Machine Learning Reply",
+      "lieu": "Munich, Bayern, Germany",
       "categorie": "Data Science",
       "competences": [
         "Python",
         "SQL",
         "Java",
         "JavaScript",
-        "Go",
         "Docker",
         "Kubernetes",
+        "TensorFlow",
+        "PyTorch",
         "AWS",
         "Azure",
         "GCP",
+        "Machine Learning",
+        "FastAPI",
+        "Flask"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-147389"
+    },
+    {
+      "titre": "Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "entreprise": "ABRIO GmbH",
+      "lieu": "Frankfurt, Hessen, Deutschland",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "JavaScript",
+        "TypeScript",
+        "Git",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/frontend-developer-e-commerce-shopify-frankfurt-193357"
+    },
+    {
+      "titre": "Business Development Manager:in",
+      "entreprise": "Nelly Solutions",
+      "lieu": "München",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/business-development-managerin-munchen-463094"
+    },
+    {
+      "titre": "Product Designer",
+      "entreprise": "AMBOSS",
+      "lieu": "Berlin",
+      "categorie": "Autre",
+      "competences": [
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/product-designer-berlin-449917"
+    },
+    {
+      "titre": "Performance Marketing Working Student (f/m/d)",
+      "entreprise": "Odonnell Moonshine",
+      "lieu": "Berlin-Kreuzberg",
+      "categorie": "Autre",
+      "competences": [
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/odonnell-moonshine/performance-marketing-working-student-berlin-kreuzberg-202160"
+    },
+    {
+      "titre": "(Senior) Sales Manager (m/w/d) - IMPACT FESTIVAL",
+      "entreprise": "Techquartier",
+      "lieu": "Frankfurt am Main",
+      "categorie": "Autre",
+      "competences": [
+        "Spark"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/techquartier/senior-sales-manager-impact-festival-frankfurt-am-main-498556"
+    },
+    {
+      "titre": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
+      "entreprise": "Acto",
+      "lieu": "Berlin (Remote)",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "SQL",
+        "PyTorch",
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/acto/remote-ai-engineer-agentic-systems-voice-190415"
+    },
+    {
+      "titre": "Senior Product Manager (f/m/x)",
+      "entreprise": "Mindfuel",
+      "lieu": "Mindfuel Munich",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/mindfuel/remote-senior-product-manager-mindfuel-munich-380433"
+    },
+    {
+      "titre": "Werkstudent:in Innovation Management (m/w/d)",
+      "entreprise": "Puschwahlig Workplace Law",
+      "lieu": "Berlin",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/puschwahlig-workplace-law/werkstudentin-innovation-management-berlin-298599"
+    },
+    {
+      "titre": "Interim project - Senior DevOps Consultant (f/m/d)",
+      "entreprise": "Climate",
+      "lieu": "Berlin HQ",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "PostgreSQL"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/interim-project-senior-devops-consultant-berlin-hq-173895"
+    },
+    {
+      "titre": "Data Engineer (f/m/d)",
+      "entreprise": "Climate",
+      "lieu": "Berlin HQ",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "SQL",
+        "Docker",
+        "Pandas",
+        "Git",
+        "Machine Learning",
+        "PostgreSQL"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/climate/data-engineer-berlin-hq-316909"
+    },
+    {
+      "titre": "Manager, Forward Deployed Engineering",
+      "entreprise": "parloa",
+      "lieu": "Non precise",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "TypeScript",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "Azure",
+        "MongoDB",
+        "MySQL"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/parloa/manager-forward-deployed-engineering-11944"
+    },
+    {
+      "titre": "Senior Software Engineer FullStack Kotlin / React - Berlin (f/m/d)",
+      "entreprise": "Doctolib",
+      "lieu": "Berlin, Berlin",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Python",
+        "Java",
+        "TypeScript"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-software-engineer-fullstack-kotlin-react-berlin-berlin-berlin-469096"
+    },
+    {
+      "titre": "Senior Quality Assurance Engineer (f/m/d)",
+      "entreprise": "Zeal Network",
+      "lieu": "Hamburg",
+      "categorie": "Autre",
+      "competences": [
+        "TypeScript",
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-23520"
+    },
+    {
+      "titre": "QA Engineer",
+      "entreprise": "Sereact GmbH",
+      "lieu": "Stuttgart Schockenriedstr. 17",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "Docker",
         "Linux"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/associate-sales-engineer-manchester-449075"
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/qa-engineer-stuttgart-139209"
     },
     {
-      "titre": "Solutions Architect - MENA",
-      "entreprise": "Deepgram",
-      "lieu": "EMEA | Remote",
+      "titre": "Robotics ML and Data Intern",
+      "entreprise": "Sereact GmbH",
+      "lieu": "Stuttgart Schockenriedstr. 17",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "Docker",
+        "Pandas",
+        "NumPy",
+        "TensorFlow",
+        "PyTorch",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/robotics-ml-and-data-intern-stuttgart-37128"
+    },
+    {
+      "titre": "Robotics Engineer Intern",
+      "entreprise": "Sereact GmbH",
+      "lieu": "Stuttgart Schockenriedstr. 17",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "Docker",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/robotics-engineer-intern-stuttgart-485847"
+    },
+    {
+      "titre": "Senior SEO/GEO Manager (all genders)",
+      "entreprise": "Armedangels",
+      "lieu": "Köln",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/armedangels/senior-seo-geo-manager-all-genders-koln-455208"
+    },
+    {
+      "titre": "(Senior) Python Entwickler (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Ratingen, Nordrhein-Westfalen, Germany",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Machine Learning",
+        "API",
+        "FastAPI",
+        "Django",
+        "Flask"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-python-entwickler-ratingen-362962"
+    },
+    {
+      "titre": "Senior Fullstack Entwickler (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Remote job",
+      "categorie": "Autre",
+      "competences": [
+        "SQL",
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-fullstack-entwickler-ratingen-157329"
+    },
+    {
+      "titre": "(Senior) DevOps Engineer (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Remote job",
       "categorie": "DevOps / Cloud",
       "competences": [
         "Python",
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Linux",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/remote-senior-devops-engineer-ratingen-325974"
+    },
+    {
+      "titre": "Senior Java Backend Entwickler (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Ratingen, Nordrhein-Westfalen, Germany",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "SQL",
+        "Java",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "AWS",
+        "Git",
+        "PostgreSQL",
+        "MySQL",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-java-backend-entwickler-ratingen-67012"
+    },
+    {
+      "titre": "(Senior) Software Engineer C#/.NET & Azure (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Ratingen, Nordrhein-Westfalen, Germany",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "Azure",
+        "Git"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-software-engineer-c-net-azure-ratingen-61813"
+    },
+    {
+      "titre": "Senior Cloud Entwickler für Microsoft .NET & AWS (m/w/d)",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Ratingen, Nordrhein-Westfalen, Germany",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-cloud-entwickler-fur-microsoft-net-aws-ratingen-494474"
+    },
+    {
+      "titre": "Senior DevOps Engineer (m/w/d) für Brandenburg, Berlin, Braunschweig",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Brunswick, Niedersachsen, Germany",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "Python",
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Linux",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-devops-engineer-fur-brandenburg-berlin-braunschweig-brunswick-241394"
+    },
+    {
+      "titre": "Senior Java Fullstack Entwickler (m/w/d) für Brandenburg, Braunschweig, Berlin",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Brunswick, Niedersachsen, Germany",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "Java",
         "JavaScript",
         "TypeScript",
         "Docker",
+        "Kubernetes",
+        "Kafka"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-java-fullstack-entwickler-fur-brandenburg-braunschweig-berlin-brunswick-476805"
+    },
+    {
+      "titre": "Senior Test Engineer (m/w/d) für Brandenburg, Braunschweig, Berlin",
+      "entreprise": "HyPlus Technology GmbH",
+      "lieu": "Berlin, Berlin, Germany",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "AWS",
+        "Git",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-test-engineer-fur-brandenburg-braunschweig-berlin-129022"
+    },
+    {
+      "titre": "Senior Consultant, Digital Risk & Cyber Security",
+      "entreprise": "Baringa",
+      "lieu": "London",
+      "categorie": "Business Intelligence",
+      "competences": [
+        "Power BI"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-digital-risk-cyber-security-london-230868"
+    },
+    {
+      "titre": "Head of Business Development",
+      "entreprise": "Dualentry",
+      "lieu": "London, UK (Hybrid)",
+      "categorie": "Autre",
+      "competences": [
+        "Python"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/head-of-business-development-london-221247"
+    },
+    {
+      "titre": "Staff Solutions Engineer - EU / UK",
+      "entreprise": "Marqeta Inc",
+      "lieu": "London Office",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/staff-solutions-engineer-eu-uk-london-136109"
+    },
+    {
+      "titre": "Senior Software Engineer (Growth)",
+      "entreprise": "Fanvue.com",
+      "lieu": "Hybrid (London)",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "TypeScript",
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/senior-software-engineer-growth-london-386016"
+    },
+    {
+      "titre": "Aero Software Developer",
+      "entreprise": "Audif1",
+      "lieu": "Bicester United Kingdom",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Python",
+        "JavaScript",
+        "Kubernetes",
+        "Linux",
+        "Django"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/aero-software-developer-bicester-united-kingdom-486765"
+    },
+    {
+      "titre": "Senior Quality Analyst",
+      "entreprise": "Starrez",
+      "lieu": "Non precise",
+      "categorie": "Autre",
+      "competences": [
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/senior-quality-analyst-330064"
+    },
+    {
+      "titre": "Senior Software Engineer (Go)",
+      "entreprise": "Form3",
+      "lieu": "Non precise",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Java",
+        "Go",
         "Kubernetes",
         "AWS",
         "Azure",
@@ -3387,59 +3216,434 @@
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepgram/remote-solutions-architect-mena-58145"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-212737"
     },
     {
-      "titre": "Principal Software Engineer (Hybrid)",
-      "entreprise": "8Thlightrebuild",
-      "lieu": "London",
+      "titre": "New Grad Software Engineer",
+      "entreprise": "Bloxd",
+      "lieu": "United Kingdom",
       "categorie": "Developpement Logiciel",
       "competences": [
-        "Python",
-        "SQL",
-        "Java",
-        "JavaScript",
-        "TypeScript",
-        "R",
-        "Scala",
-        "Go",
-        "NLP"
+        "TypeScript"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-29809"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bloxd/new-grad-software-engineer-united-kingdom-9531"
     },
     {
-      "titre": "Lead Software Engineer (Hybrid)",
-      "entreprise": "8Thlightrebuild",
+      "titre": "Business Development Manager – Street",
+      "entreprise": "Street Group",
+      "lieu": "Manchester",
+      "categorie": "Autre",
+      "competences": [
+        "R",
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/business-development-manager-street-manchester-240413"
+    },
+    {
+      "titre": "Business Development Manager – Spectre",
+      "entreprise": "Street Group",
+      "lieu": "Manchester",
+      "categorie": "Autre",
+      "competences": [
+        "R",
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/business-development-manager-spectre-manchester-350391"
+    },
+    {
+      "titre": "Data Scientist - Audiobooks Analytics",
+      "entreprise": "Spotify",
       "lieu": "London",
-      "categorie": "Developpement Logiciel",
+      "categorie": "Data Science",
       "competences": [
         "Python",
         "SQL",
-        "Java",
+        "R",
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/data-scientist-audiobooks-analytics-london-279655"
+    },
+    {
+      "titre": "Product Owner",
+      "entreprise": "Thinkmarkets",
+      "lieu": "London",
+      "categorie": "Autre",
+      "competences": [
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thinkmarkets/product-owner-london-302646"
+    },
+    {
+      "titre": "Marketing Analytics & Attribution Manager – FX & CFDs",
+      "entreprise": "Thinkmarkets",
+      "lieu": "London",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thinkmarkets/marketing-analytics-attribution-manager-fx-cfds-london-149927"
+    },
+    {
+      "titre": "Software Development Engineer in Test",
+      "entreprise": "Dotmatics",
+      "lieu": "Non precise",
+      "categorie": "Developpement Logiciel",
+      "competences": [
         "JavaScript",
         "TypeScript",
         "R",
-        "Scala",
-        "Go",
+        "Excel",
         "Git",
-        "Linux",
-        "NLP"
+        "API"
       ],
       "salaire_min": null,
       "salaire_max": null,
       "salaire_ref": null,
       "anomalie": false,
-      "date_publication": "2026-08-23",
+      "date_publication": "2026-08-25",
       "source": "arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-415877"
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/software-development-engineer-in-test-264538"
+    },
+    {
+      "titre": "Staff Software Engineer, Dev Environments",
+      "entreprise": "Deliveroo",
+      "lieu": "London - The River Building HQ",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Python",
+        "TypeScript",
+        "Go",
+        "Kubernetes"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-385361"
+    },
+    {
+      "titre": "Business Development Manager - Oxford",
+      "entreprise": "Deliveroo",
+      "lieu": "Oxford",
+      "categorie": "Autre",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/business-development-manager-oxford-307448"
+    },
+    {
+      "titre": "Senior Digital Marketing Specialist - Paid Social - FTC",
+      "entreprise": "Deliveroo",
+      "lieu": "London - The River Building HQ",
+      "categorie": "Data Science",
+      "competences": [
+        "Spark"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-digital-marketing-specialist-paid-social-ftc-london-301789"
+    },
+    {
+      "titre": "Senior Customer Support Engineer",
+      "entreprise": "Fyxer",
+      "lieu": "London",
+      "categorie": "Autre",
+      "competences": [
+        "SQL",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/senior-customer-support-engineer-london-163343"
+    },
+    {
+      "titre": "Senior Software Engineer",
+      "entreprise": "Odin",
+      "lieu": "London",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-25",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/senior-software-engineer-london-120105"
+    },
+    {
+      "titre": "Software Engineer (Java)",
+      "entreprise": "Arq",
+      "lieu": "London",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Java"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-london-130149"
+    },
+    {
+      "titre": "Senior Software Engineer (Java)",
+      "entreprise": "Arq",
+      "lieu": "London",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Java"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/senior-software-engineer-java-london-426383"
+    },
+    {
+      "titre": "Lead Software Engineer(Java)",
+      "entreprise": "Arq",
+      "lieu": "London",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Java"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/lead-software-engineerjava-london-444059"
+    },
+    {
+      "titre": "Platform Engineer",
+      "entreprise": "9Fin",
+      "lieu": "London",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "Go",
+        "Docker",
+        "Excel",
+        "AWS",
+        "Git",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/platform-engineer-london-97734"
+    },
+    {
+      "titre": "Senior Platform Engineer",
+      "entreprise": "9Fin",
+      "lieu": "London",
+      "categorie": "Autre",
+      "competences": [
+        "Python",
+        "Go",
+        "Docker",
+        "Excel",
+        "AWS",
+        "Git",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-platform-engineer-london-337119"
+    },
+    {
+      "titre": "Senior IT Infrastructure and Systems Engineer - Network",
+      "entreprise": "Flatrock",
+      "lieu": "Remote UK",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "AWS",
+        "Azure",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-and-systems-engineer-network-445338"
+    },
+    {
+      "titre": "Senior IT Infrastructure / Systems Engineer",
+      "entreprise": "Flatrock",
+      "lieu": "Remote UK",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "AWS",
+        "Azure",
+        "Linux"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/flatrock/remote-senior-it-infrastructure-systems-engineer-136137"
+    },
+    {
+      "titre": "Junior Market Data Analyst – Chartering",
+      "entreprise": "Kpler",
+      "lieu": "United Kingdom",
+      "categorie": "Business Intelligence",
+      "competences": [
+        "Python",
+        "SQL",
+        "Excel"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-market-data-analyst-chartering-united-kingdom-164308"
+    },
+    {
+      "titre": "Cyber Security Engineer II",
+      "entreprise": "Pingidentity",
+      "lieu": "Non precise",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pingidentity/cyber-security-engineer-ii-385761"
+    },
+    {
+      "titre": "Staff Data Scientist",
+      "entreprise": "Ripple",
+      "lieu": "London",
+      "categorie": "Data Science",
+      "competences": [
+        "Python",
+        "SQL",
+        "R",
+        "Airflow"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-data-scientist-london-283841"
+    },
+    {
+      "titre": "Senior Staff Security Engineer, AI Security",
+      "entreprise": "Ripple",
+      "lieu": "London",
+      "categorie": "DevOps / Cloud",
+      "competences": [
+        "R",
+        "Go",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "GCP",
+        "API"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-staff-security-engineer-ai-security-london-353793"
+    },
+    {
+      "titre": "Future Interest: Analytics Engineer",
+      "entreprise": "Kaluza",
+      "lieu": "Bristol; Edinburgh; London",
+      "categorie": "Autre",
+      "competences": [
+        "SQL",
+        "Go"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/future-interest-analytics-engineer-bristol-edinburgh-london-427433"
     },
     {
       "titre": "Developpeur Fullstack",
@@ -3627,6 +3831,36 @@
       "url": "https://www.emploidakar.com/offre-demploi/imco-digital-dakar-prestation-de-services-promotrice-nafapay/"
     },
     {
+      "titre": "Associate Data Specialist",
+      "entreprise": "Non precise",
+      "lieu": "Dakar",
+      "categorie": "Data Science",
+      "competences": [],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-24",
+      "source": "senjob",
+      "url": "https://senjob.com/sn/jobseekers/associate-data-specialist_e_163462.html"
+    },
+    {
+      "titre": "Développeur Full Stack sénior Java / Vue.js",
+      "entreprise": "Non precise",
+      "lieu": "Dakar",
+      "categorie": "Developpement Logiciel",
+      "competences": [
+        "Java"
+      ],
+      "salaire_min": null,
+      "salaire_max": null,
+      "salaire_ref": null,
+      "anomalie": false,
+      "date_publication": "2026-08-20",
+      "source": "senjob",
+      "url": "https://senjob.com/sn/jobseekers/développeur-full-stack-sénior-java---vue.js_e_163408.html"
+    },
+    {
       "titre": "Informaticien",
       "entreprise": "Non precise",
       "lieu": "Dakar",
@@ -3653,22 +3887,6 @@
       "date_publication": "2026-08-22",
       "source": "senjob",
       "url": "https://senjob.com/sn/jobseekers/architecte-d’entreprise-junior---stagiaire_e_163442.html"
-    },
-    {
-      "titre": "Développeur Full Stack sénior Java / Vue.js",
-      "entreprise": "Non precise",
-      "lieu": "Dakar",
-      "categorie": "Developpement Logiciel",
-      "competences": [
-        "Java"
-      ],
-      "salaire_min": null,
-      "salaire_max": null,
-      "salaire_ref": null,
-      "anomalie": false,
-      "date_publication": "2026-08-20",
-      "source": "senjob",
-      "url": "https://senjob.com/sn/jobseekers/développeur-full-stack-sénior-java---vue.js_e_163408.html"
     },
     {
       "titre": "Developpeur .NET Blazor Sénior",
